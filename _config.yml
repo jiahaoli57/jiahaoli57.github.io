@@ -10,7 +10,7 @@ show_drafts: false
 future: false
 category: "post"
 img: ""
-
+google_analytics: G-9BVSS0QW8P
 
 # Build settings
 markdown: kramdown
