@@ -9,6 +9,15 @@
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
 
+
+    <main class="homepage" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+    
   <script>
     // 给所有有text类名的元素绑定点击事件
     $(".bib").click(function(){
@@ -34,15 +43,6 @@
       });
     });
   </script>
-
-    <main class="homepage" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {% include footer.html %}
-
+    
   </body>
-
 </html>
