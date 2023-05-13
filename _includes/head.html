@@ -17,7 +17,30 @@
       gtag('config', 'G-9BVSS0QW8P');
     </script>
 
-
+    <!-- bib.fun -->
+    <script>
+    function showBib() {
+      // 创建一个XMLHttpRequest对象
+      var xhr = new XMLHttpRequest();
+      // 设置请求的方法和URL
+      xhr.open("GET", "/assets/LSRE-CAAN.bib");
+      // 设置请求的响应类型为文本
+      xhr.responseType = "text";
+      // 设置请求完成后的回调函数
+      xhr.onload = function() {
+        // 如果请求成功
+        if (xhr.status == 200) {
+          // 获取响应的文本内容
+          var bib = xhr.response;
+          // 显示一个弹框，内容为bib文件的内容
+          alert(bib);
+        }
+      };
+      // 发送请求
+      xhr.send();
+    }
+    </script>
+    
     {% if site.tags != "" %}
       {% include tags.html %}
     {% endif %}
