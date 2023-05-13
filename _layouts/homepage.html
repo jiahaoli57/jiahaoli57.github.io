@@ -9,6 +9,32 @@
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
 
+  <script>
+    // 给所有有text类名的元素绑定点击事件
+    $(".bib").click(function(){
+      // 获取当前元素的data-bib属性的值，作为本地bib文件的路径
+      var bibPath = $(this).data("bib");
+      // 使用jquery的ajax方法，读取本地bib文件的内容
+      $.ajax({
+        url: bibPath,
+        dataType: "text",
+        success: function(bib){
+          // 调用layer的open方法，显示一个bib文件框
+          layer.open({
+            type: 1,
+            title: "bib文件",
+            content: "<pre>" + bib + "</pre>",
+            area: ["500px", "300px"]
+          });
+        },
+        error: function(){
+          // 如果读取失败，显示一个错误信息
+          layer.msg("读取本地bib文件失败");
+        }
+      });
+    });
+  </script>
+
     <main class="homepage" aria-label="Content">
       <div class="wrapper">
         {{ content }}
