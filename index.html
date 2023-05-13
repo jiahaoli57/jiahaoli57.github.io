@@ -39,9 +39,34 @@ layout: homepage
       <i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI, CCF-B, ABS/AJG 2, FMS-B, IF=7.466) <br>
       [<a href="https://www.sciencedirect.com/science/article/pii/S030645732200348X">PDF</a>]
       [<a href="#" onclick="showBib('LSRE-CAAN.bib')">cite</a>]
+      [<a <span id="text">点击这里</span></a>]
       [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </li>
 </ul>
-
+  <script>
+    // 给文字绑定点击事件
+    $("#text").click(function(){
+      // 定义一个本地bib文件的路径
+      var bibPath = "assets/LSRE-CAAN.bib";
+      // 使用jquery的ajax方法，读取本地bib文件的内容
+      $.ajax({
+        url: bibPath,
+        dataType: "text",
+        success: function(bib){
+          // 调用layer的open方法，显示一个bib文件框
+          layer.open({
+            type: 1,
+            title: "bib文件",
+            content: "<pre>" + bib + "</pre>",
+            area: ["500px", "300px"]
+          });
+        },
+        error: function(){
+          // 如果读取失败，显示一个错误信息
+          layer.msg("读取本地bib文件失败");
+        }
+      });
+    });
+  </script>
 <!-- <ul>
 <li><h4>RLTrader</h4>br>
   <i> Under review, </i> 2023 <br>
