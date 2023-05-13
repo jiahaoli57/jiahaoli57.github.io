@@ -19,11 +19,11 @@
 
     <!-- bib.fun -->
     <script>
-    function showBib() {
+    function showBib(filename) {
       // 创建一个XMLHttpRequest对象
       var xhr = new XMLHttpRequest();
       // 设置请求的方法和URL
-      xhr.open("GET", "/assets/LSRE-CAAN.bib");
+      xhr.open("GET", "/assets/" + filename);
       // 设置请求的响应类型为文本
       xhr.responseType = "text";
       // 设置请求完成后的回调函数
