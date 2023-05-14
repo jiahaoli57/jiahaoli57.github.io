@@ -46,14 +46,14 @@
               // 监听复制成功的事件
               clipboard.on("success", function(e) {
                 // 提示复制成功
-                layer.msg("复制成功");
+                layer.msg("Success");
                 // 释放clipboard对象
                 clipboard.destroy();
               });
               // 监听复制失败的事件
               clipboard.on("error", function(e) {
                 // 提示复制失败
-                layer.msg("复制失败");
+                layer.msg("Failure");
                 // 释放clipboard对象
                 clipboard.destroy();
               });
