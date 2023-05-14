@@ -34,6 +34,22 @@
             title: "bibtex",
             content: "<pre>" + bib + "</pre>",
             area: ["auto", "auto"]
+            btn: ["copy", "cancel"],
+            // 设置弹窗的按钮回调函数
+            yes: function(index, layero) {
+              // 获取文本框元素
+              var input = document.getElementById("copy-text");
+              // 设置文本框的值为弹窗的内容
+              input.value = layero.find(".layui-layer-content").text();
+              // 选中文本框的内容
+              input.select();
+              // 复制选中的内容
+              document.execCommand("copy");
+              // 关闭弹窗
+              layer.close(index);
+              // 提示复制成功
+              layer.msg("复制成功");
+            }
           });
         },
         error: function(){
