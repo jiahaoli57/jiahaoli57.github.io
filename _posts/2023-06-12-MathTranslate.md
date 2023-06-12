@@ -34,7 +34,7 @@ although it is usually only used to translate from English to our own native lan
 and layout intact.</p>
 
 ## Potential Applications
-<ul style="list-style-type:circle;">
+<ul>
 <li align="justify"><strong>Translation of arxiv article. arXiv is a publicly available preprint platform.</strong> 
 One of its advantages is that it allows authors to upload LaTeX source code, not just PDF files. This allows readers to download the LaTeX source code, view 
 the detailed formatting and content of the article, and even make changes and recompilations. Taking advantage of this
