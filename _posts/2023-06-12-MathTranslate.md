@@ -34,7 +34,7 @@ although it is usually only used to translate from English to our own native lan
 and layout intact.</p>
 
 ## Potential Applications
-
+<ul style="list-style-type:circle;">
 <li align="justify"><strong>Translation of arxiv article. arXiv is a publicly available preprint platform.</strong> 
 One of its advantages is that it allows authors to upload LaTeX source code, not just PDF files. This allows readers to download the LaTeX source code, view 
 the detailed formatting and content of the article, and even make changes and recompilations. Taking advantage of this
@@ -49,7 +49,7 @@ expressions will occur. With <strong>MathTranslate</strong>, we can easily trans
 source code into our native language. In this way, we can check and revise our papers in our more familiar and sensitive 
 native language, finding and correcting some superficial language problems in order to improve the quality and level of 
 our papers, while facilitating the reading and comprehension for reviewers and readers.</li>
-
+</ul>
 
 _References_
 
