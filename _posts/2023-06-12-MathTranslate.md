@@ -7,7 +7,7 @@ tags: research-tool
 
 > <p align="justify"><a href="https://github.com/SUSYUSTC/MathTranslate"><strong>MathTranslate</strong></a> is an innovative open source project available on GitHub 
 > that is predominantly utilized for translating scientific papers that contain complex mathematical symbols and formulas. 
-> Unlike most translation software available nowadays, <strong>MathTranslate</strong> is specifically designed to maintain the integrity 
+> Unlike most translation software available nowadays, MathTranslate is specifically designed to maintain the integrity 
 > of equations, mathematical symbols, and other challenging-to-identify content during the translation process. This 
 > ensures that the mathematical symbols and formulas remain consistent both before and after translation, making it an 
 > ideal tool for researchers and scholars who deal with scientific papers frequently.</p>
@@ -19,7 +19,7 @@ tags: research-tool
 {:toc}
 
 ## Example Presentation
-<p align="justify">Here is an example of how <strong>MathTranslate</strong> converts a <a href="https://www.sciencedire
+<p align="justify">Here is an example of how MathTranslate converts a <a href="https://www.sciencedire
 ct.com/science/article/abs/pii/S030645732200348X">paper</a> from English to Simplified Chinese using latex file (of course 
 this tool is not limited to English to Simplified Chinese, it can translate from most languages to most languages, 
 although it is usually only used to translate from English to our own native language).</p>
@@ -38,10 +38,10 @@ and layout intact.</p>
 <li align="justify"><strong>Translation of arxiv article. arXiv is a publicly available preprint platform.</strong> 
 One of its advantages is that it allows authors to upload LaTeX source code, not just PDF files. This allows readers to download the LaTeX source code, view 
 the detailed formatting and content of the article, and even make changes and recompilations. Taking advantage of this
-feature, we can use the <strong>MathTranslate</strong> tool for high-quality translations of arXiv articles. </li>
+feature, we can use the MathTranslate tool for high-quality translations of arXiv articles. </li>
 
 <li align="justify"><strong>Final self-check in your native language when writing a non-native language paper.</strong> 
-Another important use of <strong>MathTranslate</strong> is to help researchers who are writing papers in a non-native language to do a final self-check and 
+Another important use of MathTranslate is to help researchers who are writing papers in a non-native language to do a final self-check and 
 proofreading in their native language. As we know, many scientific papers are written in English or other foreign 
 languages, which can be a big challenge for non-native speakers. Even if we have acquired a certain level of proficiency 
 in a foreign language, it is inevitable that some grammatical errors, spelling mistakes, improper wording or unclear 
@@ -57,5 +57,5 @@ _References_
 - [https://weibo.com/1727858283/N2PX5uluz](https://weibo.com/1727858283/N2PX5uluz)
 - [https://zhuanlan.zhihu.com/p/633316249](https://zhuanlan.zhihu.com/p/633316249)
 
-<p align="justify"><small>Note: This is a voluntary promotion of <strong>MathTranslate</strong>. I am not affiliated with the developers of 
-<strong>MathTranslate</strong> and I do not receive any compensation for this promotion.</small></p>
+<p align="justify"><small>Note: This is a voluntary promotion of MathTranslate. I am not affiliated with the developers of 
+MathTranslate and I do not receive any compensation for this promotion.</small></p>
