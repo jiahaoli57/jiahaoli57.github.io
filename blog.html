@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="home other-pages">
 
-    <h1 class="page-heading">Tags</h1>
+    <h1 class="page-heading" style="text-align: justify;">Tags</h1>
  {% capture temp_tags %}
     {% for tag in site.tags %}
       {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
@@ -19,16 +19,16 @@ layout: default
 
   <h1 class="page-heading"></h1>
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading" style="text-align: justify;">Posts</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
     {% unless post.categories contains "objects" %}
       <li>
-        <h2>
+        <h2 style="text-align: justify;">
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
             {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-          <span class="post-meta">
+          <span class="post-meta" style="text-align: justify;">
             {{ post.date | date: date_format }}
             <span>
               {% for tag in post.tags %}
@@ -39,7 +39,7 @@ layout: default
           </span>
 
           {% if post.excerpt %}
-          <span class="post-excerpt">
+          <span class="post-excerpt" style="text-align: justify;">
             {{ post.excerpt }}
           </span>
           {% endif %}
