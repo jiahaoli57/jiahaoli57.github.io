@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The best paper translation tool (requires you to have a latex file)"
-date: 2023-6-12
+date: 2023-06-12
 tags: research-tool
 ---
 
