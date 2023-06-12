@@ -51,7 +51,7 @@ our papers, while facilitating the reading and comprehension for reviewers and r
 
 _References_
 
-- [https://github.com/SUSYUSTC/MathTranslate](https://sites.stat.washington.edu/raftery/Research/PDF/Gneiting2007jasa.pdf)
+- [https://github.com/SUSYUSTC/MathTranslate](https://github.com/SUSYUSTC/MathTranslate)
 - [https://weibo.com/1727858283/N2PX5uluz](https://weibo.com/1727858283/N2PX5uluz)
 - [https://zhuanlan.zhihu.com/p/633316249](https://zhuanlan.zhihu.com/p/633316249)
 
