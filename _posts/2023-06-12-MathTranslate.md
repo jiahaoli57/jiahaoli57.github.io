@@ -45,7 +45,7 @@ Another important use of MathTranslate is to help researchers who are writing pa
 proofreading in their native language. As we know, many scientific papers are written in English or other foreign 
 languages, which can be a big challenge for non-native speakers. Even if we have acquired a certain level of proficiency 
 in a foreign language, it is inevitable that some grammatical errors, spelling mistakes, improper wording or unclear 
-expressions will occur. With <strong>MathTranslate</strong>, we can easily translate mathematical formulas and texts from written LaTeX 
+expressions will occur. With MathTranslate, we can easily translate mathematical formulas and texts from written LaTeX 
 source code into our native language. In this way, we can check and revise our papers in our more familiar and sensitive 
 native language, finding and correcting some superficial language problems in order to improve the quality and level of 
 our papers, while facilitating the reading and comprehension for reviewers and readers.</li>
