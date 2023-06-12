@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "On Evaluating Probablistic Predictions"
-date: 2023-4-1
-tags: machine-learning
+title: "On"
+date: 2023-6-12
+tags: research-tool
 ---
 
 > Point predictions are often unsufficient and for machine learning tasks that has to deal with uncertainty. This post talks about a frame work to think about and evaluate probablistic predictions, which includes proper scoring rules, multi-dimentional proper scoring rules, distribution-free uncertainty quantification, calibration vs. sharpness, and more.
