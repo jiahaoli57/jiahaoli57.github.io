@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "**MathTranslate**: The best paper translation tool (requires you to have a latex file)"
