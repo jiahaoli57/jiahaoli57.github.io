@@ -33,7 +33,7 @@ layout: homepage
 <li style="text-align:justify"> Apr. 2023: Invited to serve as a reviewer for <a href="https://www.sciencedirect.com/journal/finance-research-letters">Finance Research Letters</a> </li>
 <li style="text-align:justify"> Mar. 2023: Invited to serve as a reviewer for <a href="https://www.sciencedirect.com/journal/information-processing-and-management/">Information Processing & Management</a> </li>
 <li style="text-align:justify"> Mar. 2023: Invited to serve as a sub-reviewer for <a href="https://www.tandfonline.com/journals/rquf20/">Quantitative Finance</a> </li>
-<a class="showMore()" style="cursor:pointer">Show more</a>
+<a style=“text-align:justify; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: normal;” onclick=“showMore()” style=“cursor:pointer”>Show more</a>
 <div id="more" style="display:none">
 <li style="text-align:justify"> Dec. 2022: 2022 Annual Scholarship for Ph.D. Students, provided by GDUT </li>
 <li style="text-align:justify"> Sept. 2022: Invited to serve as a reviewer for <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems">IEEE Transactions on Neural Networks and Learning Systems</a> </li>
@@ -41,10 +41,21 @@ layout: homepage
 <li style="text-align:justify"> Apr. 2021: Awarded the 2021 Annual Top Innovative Talent, provided by GDUT </li>
 <li style="text-align:justify"> Dec. 2020: 2020 Annual Scholarship for Ph.D. Students, provided by GDUT </li>
 </div>
-
+<script>
+function showMore() {
+  var x = document.getElementById("more");
+  var y = document.getElementsByTagName("button")[0];
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.innerHTML = "Show less";
+  } else {
+    x.style.display = "none";
+    y.innerHTML = "Show more";
+  }
+}
+</script>
 </ul>
 </div>
-
 
 <h2> Works </h2>
 <p style="font-size:10px;"> * denotes corresponding author </p>
