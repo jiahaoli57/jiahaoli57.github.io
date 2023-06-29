@@ -68,6 +68,20 @@
       });
     });
   </script>
+
+  <script>
+ $(".showMore").click(function() {
+  var x = document.getElementById("more");
+  var y = document.getElementsByTagName("button")[0];
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.innerHTML = "Show less";
+  } else {
+    x.style.display = "none";
+    y.innerHTML = "Show more";
+  }
+});
+  </script>
     
   </body>
 </html>
