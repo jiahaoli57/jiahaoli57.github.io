@@ -24,6 +24,8 @@ layout: homepage
 </div>
 <!-- <div>&nbsp;</div> -->
 
+<!-- 前5个news -->
+<div>
 <h2> News </h2>
 <ul>
 <li style="text-align:justify"> June. 2023: Invited to serve as a sub-reviewer for <a href="https://neurips.cc/Conferences/2023">NeurIPS'2023</a> </li>
@@ -32,12 +34,76 @@ layout: homepage
 <li style="text-align:justify"> Apr. 2023: Invited to serve as a reviewer for <a href="https://www.sciencedirect.com/journal/finance-research-letters">Finance Research Letters</a> </li>
 <li style="text-align:justify"> Mar. 2023: Invited to serve as a reviewer for <a href="https://www.sciencedirect.com/journal/information-processing-and-management/">Information Processing & Management</a> </li>
 <li style="text-align:justify"> Mar. 2023: Invited to serve as a sub-reviewer for <a href="https://www.tandfonline.com/journals/rquf20/">Quantitative Finance</a> </li>
+</div>
+
+<!-- 第5个之后的news -->
+<div>
+<!-- 添加一个收起按钮 -->
+<button type="button" class="collapsible">收起</button>
+<!-- 把第7个之后的news放在一个div里面 -->
+<div class="content">
 <li style="text-align:justify"> Dec. 2022: 2022 Annual Scholarship for Ph.D. Students, provided by GDUT </li>
 <li style="text-align:justify"> Sept. 2022: Invited to serve as a reviewer for <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems">IEEE Transactions on Neural Networks and Learning Systems</a> </li>
 <li style="text-align:justify"> Dec. 2021: 2020-2021 Second-Class Excellent Student Scholarship, provided by GDUT </li>
 <li style="text-align:justify"> Apr. 2021: Awarded the 2021 Annual Top Innovative Talent, provided by GDUT </li>
 <li style="text-align:justify"> Dec. 2020: 2020 Annual Scholarship for Ph.D. Students, provided by GDUT </li>
 </ul>
+</div>
+
+<!-- 添加一些CSS样式 -->
+<style>
+/* 设置按钮的样式 */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* 设置按钮的激活和悬停状态的样式 */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* 设置内容的样式，注意默认是隐藏的 */
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+</style>
+
+<!-- 添加一些JavaScript代码 -->
+<script>
+// 获取所有的collapsible元素
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+// 给每个collapsible元素添加一个点击事件监听器
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    // 切换按钮的激活状态
+    this.classList.toggle("active");
+    // 获取下一个兄弟元素，即内容元素
+    var content = this.nextElementSibling;
+    // 切换内容元素的显示和隐藏
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+</div>
+	
+
 
 <h2> Works </h2>
 <p style="font-size:10px;"> * denotes corresponding author </p>
