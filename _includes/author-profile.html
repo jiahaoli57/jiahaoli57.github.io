@@ -28,6 +28,12 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
+      {% if author.ssrnuri %}
+      <li><a href="{{ author.ssrnuri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> SSRN</a></li>
+      {% endif %}
+      {% if author.baidubaike %}
+      <li><a href="{{ author.baidubaike }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Baidu</a></li>
+      {% endif %}      
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}

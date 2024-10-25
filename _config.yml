@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
-description              : "电磁无损检测"
-repository               : "tangjyan/tangjyan.github.io"
+title                    : "吴辉航"
+description              : "金融科技"
+repository               : "wuhuihangsufe/wuhuihangsufe.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  # fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : # 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "唐健"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
+  name             : "吴辉航" 
+  avatar           : "images/whh.jpg"
+  bio              : "专注于人工智能技术在资产定价中的应用"
+  location         : "北京市海淀区"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
+  email            : "wuhh@pbcsf.tsinghua.edu.cn"
+  researchgate     : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "wuhuihangsufe"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : "https://orcid.org/0000-0002-0789-2860"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -57,6 +57,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  ssrnuri          : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2550790"
+  baidubaike       : "https://baike.baidu.com/item/%E5%90%B4%E8%BE%89%E8%88%AA/61771952?fr=ge_ala"
 
 
 # Reading Files
