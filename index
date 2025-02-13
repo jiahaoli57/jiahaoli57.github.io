@@ -1,0 +1,253 @@
+
+<div class="row">
+    <div class="col-md-7">
+    <div class="block"></div>
+      <p style="text-align:justify">Hi! Jiahao Li / 黎嘉豪 here. </p>
+      <p style="text-align:justify">Email: jiahaoli57 [AT] 163.com </p>
+      <p style="text-align:justify">I am currently pursuing my Ph.D. in Management Science and Engineering at GDUT, advised by <a href="https://glxy.gdut.edu.cn/info/1292/28915.htm">Prof. Yong Zhang</a>. I work on machine learning, online algorithms and combinatorial optimization, and am interested in their applications in the field of quantitative finance. I got my B.A. in Management Science from GDUT in 2020, and am fortunate to have interned at GAC-SOFINCO Auto Finance.</p>
+<!--       <p style="text-align:justify">I am also interested in rap music and freediving. Currently I am a SSI certified snorkel diver.</p> -->
+      <p style="text-align:justify">Recently, I developed a widely used WeChat mini program called <a href="https://mp.weixin.qq.com/s?__biz=Mzk0NTcyMTQyMA==&mid=2247483721&idx=1&sn=ffefeb9edc2104c06aa1fe4770ca3b01&chksm=c310586af467d17c611d0b058cd281ccd868db109c60152da94ae0e30ba7aedcb40dc821cfe5&token=1133777849&lang=zh_CN#rd">"ABS分区表"</a>, which has gained significant attention in the academic community.</p>
+      <p style="text-align:justify">Currently, I am actively seeking a postdoctoral or industry position where I can use machine learning to advance quantitative finance. I expect to graduate with my Ph.D. in June 2025.</p>
+      <p style="text-align:justify">Please feel free to contact me if you think our research interests may align. I can be reached via:</p>
+	     
+    	   <p><a href="mailto:jiahaoli57@163.com"><u>email</u></a> / <a href="https://github.com/jiahaoli57"><u>github</u></a> / <a href="https://scholar.google.com/citations?user=tyLwEwsAAAAJ&hl=zh-CN"><u>google scholar</u></a> / <a href="/assets/pubs.bib"><u>bibtex database</u></a></p>
+	</div>
+    <div class="col-md-5">
+
+<br>
+        <img src="/assets/img/idx/skiing_small.jpg" alt="a picture" >
+<!--         <img src="/assets/img/idx/self.jpg" alt="a picture" > -->
+<!--         <img src="/assets/img/idx/meme.jpg" style="margin-top: 80px;" > -->
+<!-- 	    skiing_small.jpg -->
+<!-- 	    <img src="/assets/img/idx/nb_prize_small.jpg" alt="a picture"> -->
+    </div>
+<!--     <p style="text-align:right">Exploring the world!&nbsp&nbsp</p> -->
+    <p style="font-style: italic; font-size: 12px; color: rgb(100, 100, 100); text-align:right">"Nothing great was ever achieved without enthusiasm."</i></p>
+</div>
+<!-- <div>&nbsp;</div> -->
+
+<div>
+<h2> News </h2>
+<ul>
+
+<li style="text-align:justify"> <strong>Forthcoming</strong>: Nominated for the 2024 Top 10 Postgraduates (12/14000+), provided by GDUT </li>
+<li style="text-align:justify"> Jan. 2025: Invited to serve as a reviewer for <a href="https://kdd2025.kdd.org/">KDD 2025</a> </li>
+<li style="text-align:justify"> Jan. 2025: Invited to serve as a reviewer for <a href="https://www.sciencedirect.com/journal/neural-networks">Neural Networks</a> </li>
+<li style="text-align:justify"> Jan. 2025: Invited to serve as a reviewer for <a href="https://aom.org/">AOM 2025</a> </li>
+<li style="text-align:justify"> Dec. 2024: Invited to serve as a reviewer for <a href="https://2025.ijcai.org/">IJCAI 2025</a> </li>
+<li style="text-align:justify"> Dec. 2024: Invited to serve as a reviewer for <a href="https://2025.ijcnn.org/">IJCNN 2025</a> </li>
+<li style="text-align:justify"> Nov. 2024: Awarded the 2023-2024 First-Class Excellent Student Scholarship, provided by GDUT </li>
+<li style="text-align:justify"> Nov. 2024: We have updated the data of our mini program "ABS分区表" to the ABS2024 version</a> [<a href="https://mp.weixin.qq.com/s/JAfS3sYv2PWsM5b3nYBecA">link</a>] </li>
+<button style="text-align:justify; font-family: Roboto; font-size: 10px; font-weight: normal; cursor:pointer; border:none" onclick="showMore()">Show more</button>
+<div id="more" style="display:none">
+	
+<li style="text-align:justify"> Oct. 2024: Invited to serve as a reviewer for <a href="https://www.sciencedirect.com/journal/neural-networks">Neural Networks</a> </li>
+<li style="text-align:justify"> Oct. 2024: Invited to serve as a reviewer for <a href="https://aaai.org/conference/aaai/aaai-25/">AAAI 2025</a> </li>
+<li style="text-align:justify"> Oct. 2024: Invited to serve as a reviewer for <a href="https://iui.acm.org/2025/">IUI 2025</a> </li>
+<li style="text-align:justify"> Sept. 2024: Invited to serve as a reviewer for <a href="https://www.icwsm.org/2025/index.html">ICWSM 2025</a> </li>
+<li style="text-align:justify"> Sept. 2024: Invited to serve as a reviewer for <a href="https://aistats.org/aistats2025/">AISTATS 2025</a> </li>
+<li style="text-align:justify"> Sept. 2024: Invited to serve as a reviewer for <a href="https://ieeevr.org/2025/">IEEE VR 2025</a> </li>
+<li style="text-align:justify"> Aug. 2024: Invited to serve as a reviewer for <a href="https://iclr.cc/Conferences/2025">ICLR 2025</a> </li>
+<li style="text-align:justify"> Aug. 2024: Invited to serve as a reviewer for <a href="https://www.afciworkshop.org/afme2024">NeurIPS 2024 Algorithmic Fairness through the Lens of Metrics and Evaluation Workshop </a> </li>
+<li style="text-align:justify"> July. 2024: Our mini program "ABS分区表" has been online for just over a month, and it already has 4,000 users! </li>
+<li style="text-align:justify"> July. 2024: Invited to serve as a reviewer for <a href="https://iopscience.iop.org/journal/2631-8695">Engineering Research Express</a> </li>
+<li style="text-align:justify"> June. 2024: Invited to serve as a reviewer for <a href="https://iopscience.iop.org/journal/2399-6528">Journal of Physics Communications</a> </li>
+<li style="text-align:justify"> May. 2024: Invited to be interviewed by GDUT</a> [<a href="https://mp.weixin.qq.com/s/E0YqvBAItqXNBinQ_fCD6w">link</a>] </li>
+<li style="text-align:justify"> May. 2024: Developed a Wechat mini program "ABS分区表" to search for comprehensive information on ABS journals.</a> [<a href="https://mp.weixin.qq.com/s?__biz=Mzk0NTcyMTQyMA==&mid=2247483721&idx=1&sn=ffefeb9edc2104c06aa1fe4770ca3b01&chksm=c310586af467d17c611d0b058cd281ccd868db109c60152da94ae0e30ba7aedcb40dc821cfe5&token=1133777849&lang=zh_CN#rd">link</a>] </li>
+<li style="text-align:justify"> Mar. 2024: Awarded the 2024 Annual Top Innovative Talent (235/10000+), provided by GDUT </li>
+<li style="text-align:justify"> Mar. 2024: Invited to talk, invited by GDUT Graduate Student Association</a> [<a href="https://mp.weixin.qq.com/s/axpnetBtxhN9JkpGbiD-tzDCQ">link</a>] </li>
+<li style="text-align:justify"> Mar. 2024: Invited to serve as a reviewer for <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems">IEEE Transactions on Neural Networks and Learning Systems</a> </li>
+<li style="text-align:justify"> Dec. 2023: Awarded the 2023 China National Scholarship for Postgraduates (18/1000), provided by Ministry of Education of China </li>
+<li style="text-align:justify"> Dec. 2023: Nominated for the 2023 Top 10 Postgraduates (15/10000+), provided by GDUT </li>
+<li style="text-align:justify"> Dec. 2023: Invited to serve as a reviewer for <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems">IEEE Transactions on Neural Networks and Learning Systems</a> </li>
+<li style="text-align:justify"> Nov. 2023: Awarded the 2022-2023 First-Class Excellent Student Scholarship, provided by GDUT </li>
+<li style="text-align:justify"> Oct. 2023: Invited to talk, jointly invited by GDUT School of Management, School of Mathematics and Statistics, and School of Economics</a> [<a href="https://mp.weixin.qq.com/s/4eHTGs7x1AgYg9w9fM5OgA">link</a>] </li>
+<!-- <li style="text-align:justify"> Oct. 2023: Lost my iPhone in a cab! Damn it. <a href="/assets/img/idx/WeChat_pay.jpg">Any kind souls out there to sponsor me for a new phone?</a> </li> -->
+<li style="text-align:justify"> Oct. 2023: Uploaded a PPT template for GDUT [<a href="https://www.overleaf.com/latex/templates/yan-dong-gong-ye-da-xue-zhong-wen-mo-ban-gdut-beamer-template/gyrbwbthpvcn">Overleaf</a>] </li>
+<li style="text-align:justify"> Aug. 2023: Invited to serve as a sub-reviewer for <a href="https://www.tandfonline.com/journals/rquf20/">Quantitative Finance</a> </li>
+<li style="text-align:justify"> June. 2023: Invited to serve as a sub-reviewer for <a href="https://neurips.cc/Conferences/2023">NeurIPS 2023</a> </li>
+<li style="text-align:justify"> June. 2023: Invited to serve as a reviewer for <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems">IEEE Transactions on Neural Networks and Learning Systems</a> </li>
+<li style="text-align:justify"> Apr. 2023: Invited to serve as a reviewer for <a href="https://www.sciencedirect.com/journal/finance-research-letters">Finance Research Letters</a> </li>
+<li style="text-align:justify"> Mar. 2023: Invited to serve as a reviewer for <a href="https://www.sciencedirect.com/journal/information-processing-and-management/">Information Processing & Management</a> </li>
+<li style="text-align:justify"> Mar. 2023: Invited to serve as a sub-reviewer for <a href="https://www.tandfonline.com/journals/rquf20/">Quantitative Finance</a> </li>
+<li style="text-align:justify"> Dec. 2022: Awarded the 2022 Annual Scholarship for Ph.D. Students, provided by GDUT </li>
+<li style="text-align:justify"> Sept. 2022: Invited to serve as a reviewer for <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems">IEEE Transactions on Neural Networks and Learning Systems</a> </li>
+<li style="text-align:justify"> Dec. 2021: Awarded the 2020-2021 Second-Class Excellent Student Scholarship, provided by GDUT </li>
+<li style="text-align:justify"> Apr. 2021: Awarded the 2021 Annual Top Innovative Talent, provided by GDUT </li>
+<li style="text-align:justify"> Dec. 2020: Awarded the 2020 Annual Scholarship for Ph.D. Students, provided by GDUT </li>
+</div>
+<script>
+function showMore() {
+  var x = document.getElementById("more");
+  var y = document.getElementsByTagName("button")[0];
+  if (x.style.display === "none") {
+    x.style.display = "block";
+    y.innerHTML = "Show less";
+  } else {
+    x.style.display = "none";
+    y.innerHTML = "Show more";
+  }
+}
+</script>
+</ul>
+</div>
+
+<h2> Interesting Projects </h2>
+<ul>
+	<li><h4>「ABS分区表」 </h4>
+	<p style="text-align:justify"> 我们正在考虑将微信小程序「ABS分区表」拓展成网页版和插件版，旨在为用户提供更方便、更灵活的使用体验。网页版和插件版将保留小程序版的所有功能并将在近期内发布。 [<a href="https://github.com/jiahaoli57/ABSTable">link</a>]</p>
+	<img src="/assets/img/idx/project_abstable.png" alt="project_abstable.png" height="250" style="border-radius: 5px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5); margin: 10px;">
+	</li>
+</ul>
+
+<ul>
+	<li><h4>「Call-for-Reviewers」</h4>
+	<p style="text-align:justify"> 
+		Welcome to the「Call-for-Reviewers」repository! This project aims to collect the latest "call for reviewers" links from various top CS/ML/AI conferences/journals. 
+		Participating as a reviewer is a great way to engage with the academic community, apply for NIW/H1B/EB1, enhance your CV, and stay updated with the latest research trends. [<a href="https://github.com/jiahaoli57/Call-for-Reviewers">link</a>]</p>
+	<img src="/assets/img/idx/project_call.png" alt="project_call.png" height="195" style="border-radius: 5px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5); margin: 10px;">
+	</li>
+</ul>
+
+            
+
+<h2> Works </h2>
+<p> <strong>&dagger;</strong> denotes corresponding author </p>
+<h4> Portfolio selection via deep learning </h4>
+
+<ul>
+  <li style="text-align:justify"> 张永, <strong>黎嘉豪</strong>, 刘悦, 张卫国. "基于Transformer和关键特征的可解释端到端投资组合策略"
+      <i> 计量经济学报</i>, 2024, 4(5): 1381-1407. (CSSCI, FMS-T2) <br>
+      [<a href="https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2024-0162">PDF</a>]
+<!--       [<a class="bib" data-bib="assets/LSRE-CAAN.bib" style="cursor:pointer">cite</a>] -->
+<!--       [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </li> -->
+</ul>
+
+<ul>
+  <li style="text-align:justify"> <strong>Jiahao Li</strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. "Online portfolio management via deep reinforcement learning with high-frequency data"
+      <i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4) <br>
+      [<a href="https://www.sciencedirect.com/science/article/pii/S030645732200348X">PDF</a>]
+      [<a class="bib" data-bib="assets/LSRE-CAAN.bib" style="cursor:pointer">cite</a>]
+      [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </li>
+</ul>
+
+<ul>
+  <li style="text-align:justify"> 张永, 刘悦, <strong>黎嘉豪</strong>, 王晓辉. "端到端框架下基于LSTM和在线修正的适应性投资组合策略"
+      <i> 系统管理学报</i>, 2024, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) <br>
+      [<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml">PDF</a>]
+<!--       [<a class="bib" data-bib="assets/LSRE-CAAN.bib" style="cursor:pointer">cite</a>] -->
+<!--       [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </li> -->
+</ul>
+
+<h4> Portfolio selection via online learning </h4>
+
+<ul>
+    <li style="text-align:justify"> Xingyu Yang, Xiaoteng Zheng, <strong>Jiahao Li<sup>&dagger;</sup></strong>, and Qingmei Huang. "Aggregating closing position experts for online portfolio selection"
+      <i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.2) <br>
+      [<a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2368267">PDF</a>] 
+      [<a class="bib" data-bib="assets/ACPE.bib" style="cursor:pointer">cite</a>]
+<!--       [<a href="https://github.com/jiahaoli57/AIEG">code</a>] </li> -->
+</ul>
+
+<ul>
+    <li style="text-align:justify"> Yong Zhang, Hong Lin, <strong>Jiahao Li</strong>, and Xingyu Yang. "Combined peak price tracking strategies for online portfolio selection based on the meta-algorithm"
+      <i> Journal of the Operational Research Society</i>, 2024, 75(10): 2032-2051. (SCI/SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7) <br>
+      [<a href="https://www.tandfonline.com/doi/full/10.1080/01605682.2023.2295975">PDF</a>] 
+      [<a class="bib" data-bib="assets/CPPT.bib" style="cursor:pointer">cite</a>]
+<!--       [<a href="https://github.com/jiahaoli57/AIEG">code</a>] </li> -->
+</ul>
+
+<ul>
+    <li style="text-align:justify"> Yong Zhang, <strong>Jiahao Li</strong>, Xingyu Yang, and Jianliang Zhang. "Competitive Online Strategy Based on Improved Exponential Gradient Expert and Aggregating Method"
+      <i> Computational Economics</i>, 2024, 74(8): 1940-1953. (SCI/SSCI Q2, ABDC-B, IF=1.9) <br>
+      [<a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">PDF</a>] 
+      [<a class="bib" data-bib="assets/AIEG.bib" style="cursor:pointer">cite</a>]
+      [<a href="https://github.com/jiahaoli57/AIEG">code</a>] </li>
+</ul>
+
+<ul>
+    <li style="text-align:justify"> 杨兴雨, 张健良, <strong>黎嘉豪</strong>, 张永. "基于集成专家意见的反转型在线投资组合策略研究"
+        <i> 运筹与管理</i>, 2023, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) <br>
+        [<a href="http://www.jorms.net/CN/volumn/current.shtml">PDF</a>]
+</ul>
+
+<ul>
+  <li style="text-align:justify"> 林虹, 张永, 杨兴雨, <strong>黎嘉豪</strong>. "考虑组合预测股价的泛证券投资组合选择策略"
+      <i> 管理工程学报</i>, 2023, 37(5). (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T1) <br>
+      [<a href="https://kns.cnki.net/kcms2/article/abstract?v=AGKdHLbOuHfzJpoq7O55l6wFtGqJzm1NvK5S2IHcm4061XwndqDGrCHVH47ULImopGeYb8LkNDR-6HyLJNKdSsbwDg6XnLdyD6nAg8MvwlZqPoq2e5fRhA==&uniplatform=NZKPT&language=gb">PDF</a>] </li>
+</ul>
+
+<ul>
+   <li style="text-align:justify"> Yong Zhang, <strong>Jiahao Li</strong>, Xingyu Yang, and Hong Lin. "Aggregating exponential gradient expert advice for online portfolio selection under transaction costs"
+       <i> Journal of the Operational Research Society</i>, 2023, 74(8): 1940-1953. (SCI/SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7) <br>
+       [<a href="https://www.tandfonline.com/doi/full/10.1080/01605682.2022.2122737">PDF</a>]
+       [<a class="bib" data-bib="assets/CAEGc.bib" style="cursor:pointer">cite</a>]
+       [<a href="https://github.com/jiahaoli57/CAEGc">code</a>] </li>
+</ul>
+
+<h4> Lease via online learning </h4>
+
+<ul>
+   <li style="text-align:justify"> Yong Zhang, <strong>Jiahao Li</strong>, Xingyu Yang, and Xiaohui Wang. "Lease or financial lease? Deterministic strategies for on-line financial lease problem with the second-hand transaction"
+       <i> Journal of Combinatorial Optimization</i>, 2022, 44(2): 1248-1264. (SCI Q3, ABS/AJG-2, ABDC-B, IF=0.9) <br>
+       [<a href="https://link.springer.com/article/10.1007/s10878-022-00886-7">PDF</a>]
+       [<a class="bib" data-bib="assets/Lease.bib" style="cursor:pointer">cite</a>]
+       [<a href="https://github.com/jiahaoli57/Lease-or-financial-lease">code</a>] </li>
+</ul>
+
+<!-- <h2> Ongoing Works </h2> -->
+<!-- <ul> -->
+<!-- <li style="text-align:justify"> Submitted on 28 May. 2024: <a href="https://www2.cloud.editorialmanager.com/neunet/default2.aspx">Neural Networks</a> </li> -->
+<!-- <li style="text-align:justify"> Submitted on 23 Apr. 2024: <a href="https://rp.tandfonline.com/dashboard/">Applied Economics Letters</a> </li> -->
+<!-- <li style="text-align:justify"> Submitted on 02 Apr. 2024: <a href="https://xtglxb.sjtu.edu.cn/journalx_jgxb/authorLogOn.action">系统管理学报</a> </li> -->
+<!-- <li style="text-align:justify"> Submitted on 18 Jan. 2024: <a href="https://www2.cloud.editorialmanager.com/ipm/default2.aspx">Information Processing & Management</a> </li> -->
+<!-- <li style="text-align:justify"> Submitted on 30 Nov. 2023: <a href="http://www.jorms.net/journalx_ycygl/authorLogOn.action">运筹与管理</a> </li> -->
+<!-- <li style="text-align:justify"> Submitted on 19 Nov. 2023: <a href="https://www2.cloud.editorialmanager.com/ipm/default2.aspx">Information Processing & Management</a> </li> -->
+<!-- <li style="text-align:justify"> Submitted on 08 Oct. 2023: <a href="https://mc.manuscriptcentral.com/ijoc">INFORMS Journal on Computing</a> </li> -->
+<!-- <li style="text-align:justify"> Submitted on 18 Sept. 2023: <a href="https://www.editorialmanager.com/caor/">Computers & Operations Research</a> </li> -->
+<!-- <li style="text-align:justify"> Submitted on 01 Aug. 2023: <a href="https://www.editorialmanager.com/anor/">Annals of Operations Research</a> </li> -->
+<!-- <li style="text-align:justify"> Submitted on 05 July. 2023: <a href="https://mc.manuscriptcentral.com/isr">Information Systems Research</a> </li> -->
+<!-- <li style="text-align:justify"> Submitted on 24 May. 2023: <a href="https://www.editorialmanager.com/decsup/default2.aspx">Decision Support Systems</a> </li> -->
+<!-- <li style="text-align:justify"> Submitted on 24 Nov. 2022: <a href="https://www.editorialmanager.com/joco/default2.aspx">Journal of Combinatorial Optimization</a> </li> -->
+<!-- <li style="text-align:justify"> Submitted on 21 Sept. 2022: <a href="https://mc.manuscriptcentral.com/ors-jors">Journal of the Operational Research Society</a> </li> -->
+<!-- </ul> -->
+
+<h2> Academic Service </h2>
+<ul>
+<li style="text-align:justify"> <strong>Journal Reviewer</strong>: IEEE Transactions on Neural Networks and Learning Systems, Information Processing & Management, Neural Networks, Finance Research Letters, Quantitative Finance (sub-reviewer), etc. </li>
+<li style="text-align:justify"> <strong>Conference Reviewer</strong>: KDD 2025, AOM 2025, IJCAI 2025, IJCNN 2025, AAAI 2025, ICLR 2025, AISTATS 2025, IUI 2025, ICWSM 2025, IEEE VR 2025, NeurIPS 2023 (sub-reviewer). </li>
+</ul>
+
+<h2> Conferences/Seminars </h2>
+
+<h4> 2024 </h4>
+<ul>
+	
+<li style="text-align:justify"> The Second Guangdong-Hong Kong-Macao Greater Bay Area Digital Finance Forum</a> (Guangzhou, China; Paper presentation: "A novel portfolio management system via sparse Transformer and deep reinforcement learning") 
+        [<a href="https://mp.weixin.qq.com/s/TrzAk9M40Uj8iZtz-vCGNg">link</a>]  </li>
+<li style="text-align:justify"> The 21th Conference on Financial Systems Engineering and Risk Management (Beijing, China) 
+        [<a href="https://caijing.chinadaily.com.cn/a/202412/05/WS67514504a310b59111da732c.html">link</a>]  </li>
+<li style="text-align:justify"> The 13th Annual Conference of Financial Engineering and Financial Risk Management Branch of China Operations Research Society (Guangzhou, China) 
+        [<a href="https://mp.weixin.qq.com/s/ybmheLeO7hKVQbAoiG8OWA">link</a>]  </li>
+<li style="text-align:justify"> Seminar by <a href="https://www.linwilliamcong.com/">Prof. Lin William CONG</a>, Cornell University. Topic: The Tokenomics of Staking</a> (Hong Kong, China) 
+        [<a href="https://www.cb.cityu.edu.hk/ef/research/seminars/economics/past/?event=36566&CH=BA3ED5A63737C42072D15A90393A4E47">link</a>]  </li>
+</ul>
+	
+<h4> 2023 </h4>
+<ul>
+	
+<li style="text-align:justify"> The First Guangdong-Hong Kong-Macao Greater Bay Area Digital Finance Forum</a> (Guangzhou, China) 
+        [<a href="https://mp.weixin.qq.com/s/QRrbyKhkBBuKTcpm6FxDYw">link</a>]  </li>
+</ul>
+
+<h4> 2020 </h4>
+<ul>
+<li style="text-align:justify"> The 18th Conference on Financial Systems Engineering and Risk Management (Beijing, China) 
+        [<a href="http://sbf.uibe.edu.cn/xyxw/98715048f51344ba9d2145eb17852324.htm">link</a>]  </li>
+<li style="text-align:justify"> 2020 Annual Academic Conference of Systems Engineering Society of Guangdong (Zhanjiang, China) 
+        [<a href="https://glxy.gdut.edu.cn/info/1092/14920.htm">link</a>]  </li>
+</ul>
+
+<h2> Other Skills </h2>
+<p style="text-align:justify"> Certified reviewer: <a href="https://ioppublishing.org/">IOP</a> Peer Review Excellence training graduate; Native level Mandarin; Native level Cantonese; Professional level English: IELTS Certificate 7/9 (C1); Entry level diving: Snorkel diver, SSI certified</p>
+
