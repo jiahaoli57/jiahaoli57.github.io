@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 个人简介
-本人博士毕业于广东工业大学管理学院，是学院自成立以来首位本科直博生。目前在清华大学五道口金融学院从事博士后研究，主要研究方向为机器学习在金融领域的应用。在攻读博士学位期间，曾多次获得国家博士研究生国家奖学金、校优秀毕业生、校学业一等奖学金等荣誉，并两次获得校年度“十大攀撑学子”（研究生）提名以及多次入选校研究生拔尖创新型人才培养计划。
+本人博士毕业于 <a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 广东工业大学管理学院，是学院自成立以来首位本科直博生。目前在 <a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学五道口金融学院从事博士后研究，主要研究方向为机器学习在金融领域的应用。在攻读博士学位期间，曾多次获得国家博士研究生国家奖学金、校优秀毕业生、校学业一等奖学金等荣誉，并两次获得校年度“十大攀撑学子”（研究生）提名以及多次入选校研究生拔尖创新型人才培养计划。
 
 我的研究兴趣主要集中在人工智能和机器学习在金融领域的一些交叉应用，在过去几年，本人在*European Journal of Operational Research*（ABS-4）、*Information Processing & Management*（中科院1区TOP）、*Journal of the Operational Research Society*（ABS-3）、*Journal of Combinatorial Optimization*、*Computational Economics*、《管理工程学报》、《运筹与管理》等高水平期刊上发表多篇学术论文。同时，担任*IEEE Transactions on Neural Networks and Learning Systems*、*Quantitative Finance*、*Finance Research Letters*、*Neural Networks*、*Information Processing & Management*、*Applied Intelligence*等顶尖金融/计算机学术期刊的审稿人。此外，本人曾在纽约大学[Amine M. Aboussalah](https://engineering.nyu.edu/faculty/amine-mohamed-aboussalah)教授的实验室呆过相当长的一段时间，并曾有幸在[王军波](https://www.cb.cityu.edu.hk/staff/jwang2/)教授的指导下，于香港城市大学商学院经济与金融系进行过为期半年的联合培养。
 
