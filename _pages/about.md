@@ -32,17 +32,7 @@ redirect_from:
 <span class='anchor' id='-gzjl'></span>
 # 💼 工作经历
 
-- *2023.08 至今*, 成都嘉因数字科技有限公司, 董事长
-- *2023.08 至今*, 成都瑞智和裕投资有限公司, 投资经理(兼首席资产定价科学家)
-- *2022.07 至今*,  <a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学 五道口金融学院, 财富管理研究中心, 兼职研究员
-- *2018.07 - 2022.07*, <a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学 五道口金融学院, 博士后研究员, (合作导师：[张晓燕](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm)教授), 主要工作内容:
-  - 基于文献，全面的构建了中国资本市场122个异像性因子；
-  - 基于深度神经网络算法，构建了中国多因子选股策略（多空对冲策略回测结果月收益2.904%，夏普比率2.088）；
-  - 负责以上策略在2020年5月与某私募进行合作，进行实盘运作；
-  - 基于中国风险因子，构建了中国Barra-BHB风险分析框架，对策略进行风险分析和绩效管理；
-  - 基于Ta-lib，Alpha101等常见业界技术指标，构建了200+短期量价因子；
-  - 参与了AI在大类资产配置和公（私）募基金评级的运用项目；
-  - 与蚂蚁集团开展的合作事宜，参与理财分、金选等咨询项目。
+- *2025.07 至今*，<a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学 五道口金融学院，博士后研究员，(合作导师：[廖理](https://www.pbcsf.tsinghua.edu.cn/info/1018/1026.htm)教授)
 
 <span class='anchor' id='-jybj'></span>
 
