@@ -36,7 +36,7 @@ redirect_from:
 # 🎓 教育背景
 - *2020.09 – 2025.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/dc6d43cd5236455ba57685db6a90384e.jpeg" width="23pt"></a> 广东工业大学 管理学院，管理科学与工程专业（指导老师：[张永](https://glxy.gdut.edu.cn/info/1292/28915_10.htm) 教授）
 
-- *2016.09 – 2020.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/dc6d43cd5236455ba57685db6a90384e.jpeg" width="23pt"></a> 广东工业大学 商学院，管理科学专业（指导老师：[杨兴雨](https://glxy.gdut.edu.cn/info/1292/28914_5.htm) 教授）
+- *2016.09 – 2020.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/dc6d43cd5236455ba57685db6a90384e.jpeg" width="23pt"></a> 广东工业大学 管理学院，管理科学专业（指导老师：[杨兴雨](https://glxy.gdut.edu.cn/info/1292/28914_5.htm) 教授）
 
 <span class='anchor' id='-workingpaper'></span>
 
