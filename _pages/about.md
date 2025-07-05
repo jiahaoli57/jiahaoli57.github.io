@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 个人简介
-本人博士毕业于广东工业大学管理学院，是学院自成立以来首位本科直博生。目前在清华大学五道口金融学院从事博士后研究，主要研究方向为机器学习在金融领域的应用。在攻读博士学位期间，曾获得博士研究生国家奖学金、学业一等奖学金、新生奖学金、校优秀毕业生等多项荣誉，并两次获得年度“十大攀撑学子”（研究生）提名和入选研究生拔尖创新型人才培养计划。
+本人博士毕业于广东工业大学管理学院，是学院自成立以来首位本科直博生。目前在清华大学五道口金融学院从事博士后研究，主要研究方向为机器学习在金融领域的应用。在攻读博士学位期间，曾多次获得国家博士研究生国家奖学金、校优秀毕业生、校学业一等奖学金等荣誉，并两次获得校年度“十大攀撑学子”（研究生）提名以及多次入选校研究生拔尖创新型人才培养计划。
 
 在学术合作方面，本人曾在纽约大学Amine M. Aboussalah教授的实验室呆过相当长的一段时间，并曾在王军波教授的指导下，于香港城市大学商学院经济与金融系进行过为期半年的联合培养。本人在*European Journal of Operational Research*、*Information Processing & Management*、*Journal of the Operational Research Society*、*Journal of Combinatorial Optimization*、*Computational Economics*、《管理工程学报》、《运筹与管理》等高水平期刊上发表多篇学术论文。同时，担任*IEEE Transactions on Neural Networks and Learning Systems*、*Quantitative Finance*、*Finance Research Letters*、*Neural Networks*、*Information Processing & Management*、*Applied Intelligence*等顶尖金融/计算机学术期刊的审稿人。
 
-我过去几年主要关注人工智能和机器学习在金融领域的应用，当然我说的是学术上。在学术之外，我研究如何通过结数据驱动的方法解决一些有挑战性的现实问题 (如投资组合优化、统计套利、量化交易等) ，目前个人量化交易管理资金近百万元，程序在某一报价驱动的交易市场中实现了交易额月化8%~10%收益的无风险套利，相关收益将在不久后可自动化记录时于此同步展示。
+我过去几年主要关注人工智能和机器学习在金融领域的一些交叉应用，当然我说的是学术上。在学术之外，我研究如何通过结数据驱动的方法解决一些有挑战性的现实问题 (如投资组合优化、统计套利、量化交易等) ，目前个人量化交易管理资金近百万元，程序在某一报价驱动的交易市场中实现了交易额月化8%~10%收益的无风险套利，相关收益将在不久后可自动化记录时于此同步展示。
 
-此外本人也是微信小程序“ABS分区表”的独立开发者，该小程序已累计惠及全国超25,000名经管研究生、导师与学者。
+此外本人也是微信小程序“ABS分区表”的独立开发者，该小程序已累计惠及全国超 25000 名经管研究生、导师与学者。
 
 <span class='anchor' id='-gzjl'></span>
 # 💼 工作经历
@@ -33,9 +33,9 @@ redirect_from:
 <span class='anchor' id='-jybj'></span>
 
 # 🎓 教育背景
-- *2020.09 – 2025.07*, <a href="https://www.sufe.edu.cn/"><img class="svg" src="/images/SUFE_LOGO.jpg" width="23pt"></a> 广东工业大学 管理学院, 管理科学与工程专业, 管理学**博士学位**(指导老师：[张永](https://glxy.gdut.edu.cn/info/1292/28915_10.htm)教授)
+- *2020.09 – 2025.07*, <a href="https://www.sufe.edu.cn/"><img class="svg" src="/images/SUFE_LOGO.jpg" width="23pt"></a> 广东工业大学 管理学院, 管理科学与工程专业, 管理学 **博士学位**(指导老师：[张永](https://glxy.gdut.edu.cn/info/1292/28915_10.htm)教授)
 
-- *2016.09 – 2020.07*, <a href="https://www.ynufe.edu.cn/"><img class="svg" src="/images/YNFE_LOGO.jpeg" width="23pt"></a> 云南财经大学 商学院, 管理科学专业, 管理学**硕士学位**(指导老师：[杨星雨](https://glxy.gdut.edu.cn/info/1292/28914_5.htm)教授)
+- *2016.09 – 2020.07*, <a href="https://www.ynufe.edu.cn/"><img class="svg" src="/images/YNFE_LOGO.jpeg" width="23pt"></a> 广东工业大学 商学院, 管理科学专业, 管理学 **硕士学位**(指导老师：[杨兴雨](https://glxy.gdut.edu.cn/info/1292/28914_5.htm)教授)
 
 <span class='anchor' id='-workingpaper'></span>
 
