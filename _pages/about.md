@@ -17,17 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 个人简介
-吴辉航于2018年获上海财经大学经济学博士学位，在校期间曾获“上海财经大学学术之星”的荣誉。主要研究领域为：财税政策，资产定价，机器学习和金融科技。吴博士在*Small Business Economics*、*International Review of Finance*、*Emerging Markets Finance and Trade*、《经济研究》、《数量经济技术经济研究》等重要期刊发表学术论文十余篇。吴辉航博士出版了专著：《机器学习与资产定价》，该书由清华大学出版社重磅出版，是国内第一部探讨如何将机器学习技术应用于实证资产定价研究的作品。
+本人博士毕业于广东工业大学管理学院，是学院自成立以来首位本科直博生。目前在清华大学五道口金融学院从事博士后研究，主要研究方向为机器学习在金融领域的应用。在攻读博士学位期间，曾获得博士研究生国家奖学金、学业一等奖学金、新生奖学金、校优秀毕业生等多项荣誉，并两次获得年度“十大攀撑学子”（研究生）提名和入选研究生拔尖创新型人才培养计划。
 
-吴辉航博士还致力于将金融学理论和实践结合，以学术界400+异像性股票因子和Alpha101 等常见业界分析技术指标为基础，结合深度神经网络算法，构建了多因子选股策略。在此基础上，使用自建的中国 Barra-BHB风险分析框架，对策略进行风险控制和绩效管理，形成了自己的量化投资体系。
+在学术合作方面，本人曾在纽约大学Amine M. Aboussalah教授的实验室呆过相当长的一段时间，并曾在王军波教授的指导下，于香港城市大学商学院经济与金融系进行过为期半年的联合培养。本人在*European Journal of Operational Research*、*Information Processing & Management*、*Journal of the Operational Research Society*、*Journal of Combinatorial Optimization*、*Computational Economics*、《管理工程学报》、《运筹与管理》等高水平期刊上发表多篇学术论文。同时，担任*IEEE Transactions on Neural Networks and Learning Systems*、*Quantitative Finance*、*Finance Research Letters*、*Neural Networks*、*Information Processing & Management*、*Applied Intelligence*等顶尖金融/计算机学术期刊的审稿人。
 
-我的研究领域包括：
-- 人工智能
-- 资产定价
-- 中国资本市场
-- 财税政策
+我过去几年主要关注人工智能和机器学习在金融领域的应用，当然我说的是学术上。在学术之外，我研究如何通过结数据驱动的方法解决一些有挑战性的现实问题 (如投资组合优化、统计套利、量化交易等) ，目前个人量化交易管理资金近百万元，程序在某一报价驱动的交易市场中实现了交易额月化8%~10%收益的无风险套利，相关收益将在不久后可自动化记录时于此同步展示。
 
-
+此外本人也是微信小程序“ABS分区表”的独立开发者，该小程序已累计惠及全国超25,000名经管研究生、导师与学者。
 
 <span class='anchor' id='-gzjl'></span>
 # 💼 工作经历
@@ -37,12 +33,9 @@ redirect_from:
 <span class='anchor' id='-jybj'></span>
 
 # 🎓 教育背景
-- *2015.09 – 2018.07*, <a href="https://www.sufe.edu.cn/"><img class="svg" src="/images/SUFE_LOGO.jpg" width="23pt"></a> 上海财经大学 公共经济与管理学院, 财政学专业, 应用经济学**博士学位**(指导老师：[刘小兵](https://spea.sufe.edu.cn/44/ea/c13240a214250/page.htm)教授)
+- *2020.09 – 2025.07*, <a href="https://www.sufe.edu.cn/"><img class="svg" src="/images/SUFE_LOGO.jpg" width="23pt"></a> 广东工业大学 管理学院, 管理科学与工程专业, 管理学**博士学位**(指导老师：[张永](https://glxy.gdut.edu.cn/info/1292/28915_10.htm)教授)
 
-- *2012.09 – 2015.07*, <a href="https://www.ynufe.edu.cn/"><img class="svg" src="/images/YNFE_LOGO.jpeg" width="23pt"></a> 云南财经大学 商学院, 企业管理专业, 管理学**硕士学位**(指导老师：[唐泳](https://www.ynufe.edu.cn/sxy/info/1561/31501.htm)副教授)
-
-- *2007.09 – 2011.07*, <a href="https://www.ynufe.edu.cn/"><img class="svg" src="/images/YNFE_LOGO.jpeg" width="23pt"></a> 云南财经大学 会计学院, 注册会计师专业, 管理学**学士学位**(指导老师：[陈旭东](https://www.ynufe.edu.cn/kjsjxy/info/1201/3481.htm)教授)
-
+- *2016.09 – 2020.07*, <a href="https://www.ynufe.edu.cn/"><img class="svg" src="/images/YNFE_LOGO.jpeg" width="23pt"></a> 云南财经大学 商学院, 管理科学专业, 管理学**硕士学位**(指导老师：[杨星雨](https://glxy.gdut.edu.cn/info/1292/28914_5.htm)教授)
 
 <span class='anchor' id='-workingpaper'></span>
 
