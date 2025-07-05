@@ -28,14 +28,14 @@ redirect_from:
 <span class='anchor' id='-gzjl'></span>
 # 💼 工作经历
 
-- *2025.07 至今*，<a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学 五道口金融学院，博士后研究员，(合作导师：[廖理](https://www.pbcsf.tsinghua.edu.cn/info/1018/1026.htm) 教授)
+- *2025.07 至今*，<a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学 五道口金融学院，博士后研究员(合作导师：[廖理](https://www.pbcsf.tsinghua.edu.cn/info/1018/1026.htm) 教授)
 
 <span class='anchor' id='-jybj'></span>
 
 # 🎓 教育背景
-- *2020.09 – 2025.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/Guangdong_University_of_Technology_Logo.svg.png" width="23pt"></a> 广东工业大学 管理学院, 管理科学与工程专业, 管理学 **博士学位**(指导老师：[张永](https://glxy.gdut.edu.cn/info/1292/28915_10.htm) 教授)
+- *2020.09 – 2025.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/Guangdong_University_of_Technology_Logo.svg.png" width="23pt"></a> 广东工业大学 管理学院，管理科学与工程专业（指导老师：[张永](https://glxy.gdut.edu.cn/info/1292/28915_10.htm) 教授）
 
-- *2016.09 – 2020.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/Guangdong_University_of_Technology_Logo.svg.png" width="23pt"></a> 广东工业大学 商学院, 管理科学专业, 管理学 **学士学位**(指导老师：[杨兴雨](https://glxy.gdut.edu.cn/info/1292/28914_5.htm) 教授)
+- *2016.09 – 2020.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/Guangdong_University_of_Technology_Logo.svg.png" width="23pt"></a> 广东工业大学 商学院，管理科学专业（指导老师：[杨兴雨](https://glxy.gdut.edu.cn/info/1292/28914_5.htm) 教授）
 
 <span class='anchor' id='-workingpaper'></span>
 
