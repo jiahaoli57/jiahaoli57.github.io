@@ -23,12 +23,12 @@ redirect_from:
 
 在学术之外，我研究如何通过结数据驱动的方法解决一些有挑战性的现实问题（如投资组合优化、统计套利、量化交易等）。目前，本人管理了近百万的资金，量化程序在某一报价驱动的交易市场中实现了交易额月化8%~10%收益的无风险套利，交易收益将在不久后可自动化记录时于此同步展示。
 
-此外本人也是微信小程序 [ABS分区表](https://mp.weixin.qq.com/s?__biz=Mzk0NTcyMTQyMA==&mid=2247483721&idx=1&sn=ffefeb9edc2104c06aa1fe4770ca3b01&chksm=c310586af467d17c611d0b058cd281ccd868db109c60152da94ae0e30ba7aedcb40dc821cfe5&token=1133777849&lang=zh_CN#rd) 的独立开发者，该小程序已累计惠及全国超 25000 名经管研究生、导师与学者。
+此外，本人也是微信小程序 [ABS分区表](https://mp.weixin.qq.com/s?__biz=Mzk0NTcyMTQyMA==&mid=2247483721&idx=1&sn=ffefeb9edc2104c06aa1fe4770ca3b01&chksm=c310586af467d17c611d0b058cd281ccd868db109c60152da94ae0e30ba7aedcb40dc821cfe5&token=1133777849&lang=zh_CN#rd) 的独立开发者，该小程序已累计惠及全国超 26000 名经管研究生、导师与学者。
 
 <span class='anchor' id='-gzjl'></span>
 # 💼 工作经历
 
-- *2025.07 至今*，<a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学 五道口金融学院，博士后研究员(合作导师：[廖理](https://www.pbcsf.tsinghua.edu.cn/info/1018/1026.htm) 教授)
+- *2025.07 至今*，<a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学 五道口金融学院，博士后研究员（合作导师：[廖理](https://www.pbcsf.tsinghua.edu.cn/info/1018/1026.htm) 教授）
 
 <span class='anchor' id='-jybj'></span>
 
