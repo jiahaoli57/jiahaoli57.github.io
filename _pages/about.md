@@ -8,33 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-/* 增加段落之间的间距 */
-p {
-  margin-top: 1.1em;
-  margin-bottom: 1.1em;
-  line-height: 1.8; /* 可选，提升段内行距 */
-}
-
-/* 调整标题和段落之间的间距 */
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 2em;
-  margin-bottom: 1.2em;
-}
-
-/* 增加无序/有序列表的间距 */
-ul, ol {
-  margin-top: 1.0em;
-  margin-bottom: 1.0em;
-}
-
-/* 让锚点更显眼（可选） */
-.anchor {
-  display: block;
-  height: 0;
-  visibility: hidden;
-}
-</style>
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
