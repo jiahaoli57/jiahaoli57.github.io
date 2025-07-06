@@ -89,29 +89,43 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SBE</div><img src='images/paper_sbe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
       
--  [Zhikuo Liu](https://econ.fudan.edu.cn/info/1028/22266.htm), `Huihang Wu`, [Jianfeng Wu](https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14257). Location-based tax incentives and entrepreneurial activities: Evidence from private new firms in China. *Small Business Economics*, 2019, 53(3): 729-742.
-[[DOI]](https://doi.org/10.1007/s11187-017-9982-3) [[下载]](https://link.springer.com/article/10.1007/s11187-017-9982-3) 
-</div>
-</div>
-
-
--	<li style="text-align:justify"> <strong>Jiahao Li</strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. "Online portfolio management via deep reinforcement learning with high-frequency data"
+- <li style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. Online portfolio management via deep reinforcement learning with high-frequency data
       <i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4) <br>
       [<a href="https://www.sciencedirect.com/science/article/pii/S030645732200348X">PDF</a>]
       [<a class="bib" data-bib="assets/LSRE-CAAN.bib" style="cursor:pointer">cite</a>]
       [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </li>
       
--  Guanchun Liu, Jun Zhang, `Huihang Wu`, Yuchao Peng. Financial Asset Allocations and R&D Activities:
-  Evidence from China’ s Listed Companies, *Emerging Markets Finance and Trade*. 2019, 55(3): 531-544.
-[[DOI]](https://doi.org/10.1080/1540496X.2018.1451990) [[下载]](https://www.tandfonline.com/doi/abs/10.1080/1540496X.2018.1451990?journalCode=mree20) 
+</div>
+</div>
 
--  Xiaofei Pan, Yiping Wu, `Huihang Wu`. Decentralization and firm investments: Evidence from
-  China, *International Review of Finance*. 2019, 19(2): 287-313.
-[[DOI]](https://doi.org/10.1111/irfi.12181) [[下载]](https://onlinelibrary.wiley.com/doi/abs/10.1111/irfi.12181)
+
+-	<li style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. Online portfolio management via deep reinforcement learning with high-frequency data
+      <i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4) <br>
+      [<a href="https://www.sciencedirect.com/science/article/pii/S030645732200348X">PDF</a>]
+      [<a class="bib" data-bib="assets/LSRE-CAAN.bib" style="cursor:pointer">cite</a>]
+      [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </li>
+      
+
+-	<li style="text-align:justify"> Xingyu Yang, Xiaoteng Zheng, <strong>Jiahao Li<sup>&dagger;</sup></strong>, and Qingmei Huang. Aggregating closing position experts for online portfolio selection
+      <i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.2) <br>
+      [<a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2368267">PDF</a>] 
+      [<a class="bib" data-bib="assets/ACPE.bib" style="cursor:pointer">cite</a>]
+
+-	<li style="text-align:justify"> Yong Zhang, <strong>Jiahao Li</strong>, Xingyu Yang, and Jianliang Zhang. Competitive Online Strategy Based on Improved Exponential Gradient Expert and Aggregating Method
+      <i> Computational Economics</i>, 2024, 74(8): 1940-1953. (SCI/SSCI Q2, ABDC-B, IF=1.9) <br>
+      [<a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">PDF</a>] 
+      [<a class="bib" data-bib="assets/AIEG.bib" style="cursor:pointer">cite</a>]
+      [<a href="https://github.com/jiahaoli57/AIEG">code</a>] </li>
+
+-	<li style="text-align:justify"> Yong Zhang, <strong>Jiahao Li</strong>, Xingyu Yang, and Xiaohui Wang. Lease or financial lease? Deterministic strategies for on-line financial lease problem with the second-hand transaction
+       <i> Journal of Combinatorial Optimization</i>, 2022, 44(2): 1248-1264. (SCI Q3, ABS/AJG-2, IF=0.9) <br>
+       [<a href="https://link.springer.com/article/10.1007/s10878-022-00886-7">PDF</a>]
+       [<a class="bib" data-bib="assets/Lease.bib" style="cursor:pointer">cite</a>]
+       [<a href="https://github.com/jiahaoli57/Lease-or-financial-lease">code</a>] </li>
+       
 
 
 ## 中文发表
----
 
 - 	白颢睿，`吴辉航`，柯岩. 中国股票市场月频动量效应消失之谜——基于 T+1 制度下隔夜折价现象的研究. *财经研究*. 2020,46(04):140-154.
 [[DOI]](https://dx.doi.org/10.16538/j.cnki.jfe.2020.04.010)[[下载]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=CJYJ202004011&uniplatform=NZKPT&v=PCtuhpE-K8vL3_5pkOFyio0MJWYMMCzMUp0JOH55u61iYNBRaaQy3JcdRUGm_mJo)
