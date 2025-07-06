@@ -28,11 +28,11 @@ redirect_from:
 <div style="text-align:justify"> 在学术之外，我研究如何通过结合数据驱动的方法解决一些有挑战性的现实问题（如投资组合优化、统计套利、量化交易等）。目前，我自营近100万的资金，并通过量化的方式在某一报价驱动的交易市场实现了月化8%至10%的无风险收益。交易收益将在不久后可自动化记录时于此同步展示。</div>
 <div style="height: 0.7em;"></div>
 
-<div style="text-align:justify"> 此外，本人也是微信小程序 <a href="https://mp.weixin.qq.com/s?__biz=Mzk0NTcyMTQyMA==&mid=2247483721&idx=1&sn=ffefeb9edc2104c06aa1fe4770ca3b01&chksm=c310586af467d17c611d0b058cd281ccd868db109c60152da94ae0e30ba7aedcb40dc821cfe5&token=1133777849&lang=zh_CN#rd">ABS分区表</a> 的独立开发者，该小程序已累计惠及全国超 26000 名经管研究生、导师与学者。</div>
+<div style="text-align:justify"> 本人也是微信小程序 <a href="https://mp.weixin.qq.com/s?__biz=Mzk0NTcyMTQyMA==&mid=2247483721&idx=1&sn=ffefeb9edc2104c06aa1fe4770ca3b01&chksm=c310586af467d17c611d0b058cd281ccd868db109c60152da94ae0e30ba7aedcb40dc821cfe5&token=1133777849&lang=zh_CN#rd">ABS分区表</a> 的独立开发者，该小程序已累计惠及全国超 26000 名经管研究生、导师与学者。</div>
 <div style="height: 0.7em;"></div>
 
 
-<div style="text-align:justify; color:red; margin-top: 1.3em"> ⚡ 最后，我一直在寻找对科研充满热情的学生，共同探索数据驱动方法在金融领域的应用。如果你对投资组合优化方向有浓厚兴趣，并具备出色的自驱力，欢迎与我联系。我们可以一起合作，将有趣的想法变为高质量的学术成果。</div>
+<div style="text-align:justify; color:red; margin-top: 1.3em"> ⚡ 此外，我一直在寻找对科研充满热情的学生，共同探索数据驱动方法在金融领域的应用。如果你对投资组合优化方向有浓厚兴趣，并具备出色的自驱力，欢迎与我联系。我们可以一起合作，将有趣的想法变为高质量的学术成果。</div>
 
 <span class='anchor' id='-gzjl'></span>
 # 💼 工作经历
