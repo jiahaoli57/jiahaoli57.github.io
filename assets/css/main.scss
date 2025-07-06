@@ -40,10 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-p {
-    margin-bottom: 1.5em; /* 根据需要调整这个值 */
-}
-
 .paper-box {
     display: flex;
     justify-content: left;
@@ -111,3 +107,8 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+p {
+    margin-bottom: 1.5em; /* 根据需要调整这个值 */
+}
+
