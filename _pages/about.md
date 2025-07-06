@@ -115,7 +115,6 @@ redirect_from:
       [<a class="bib" data-bib="assets/ACPE.bib" style="cursor:pointer">cite</a>] </div>
 
 </div>
-</div>
 
  
 -	<li style="text-align:justify"> Yong Zhang, <strong>Jiahao Li</strong>, Xingyu Yang, and Jianliang Zhang. Competitive Online Strategy Based on Improved Exponential Gradient Expert and Aggregating Method
