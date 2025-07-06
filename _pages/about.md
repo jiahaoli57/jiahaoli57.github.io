@@ -90,20 +90,21 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR</div><img src='images/egdmd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, and Xiaoteng Zheng. Dynamic mode decomposition for online portfolio selection task
-      <i> European Journal of Operational Research</i>, 2025. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4) <br>
+      <i> European Journal of Operational Research</i>, 2025.  (SCI Q1, ABS-4, ABDC-A*, FMS-A, IF=6) <br>
       [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">PDF</a>]
-      [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:misyVITa25sJ:scholar.google.com/&output=citation&scisdr=CgJo1IBXEKvtu6hEfb4:AAZF9b8AAAAAaGpCZb6ZTB3rq1-v5HKLTFaxb8E&scisig=AAZF9b8AAAAAaGpCZSLy5KOfpIgL7eHQFX8bkPU&scisf=4&ct=citation&cd=-1&hl=zh-CN">cite</a>]
+      [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Dynamic+mode+decomposition+for+online+portfolio+selection+task&btnG=">cite</a>]
 </div>
 </div>
 
-
-
--	<li style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. Online portfolio management via deep reinforcement learning with high-frequency data
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/egdmd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. Online portfolio management via deep reinforcement learning with high-frequency data
       <i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4) <br>
       [<a href="https://www.sciencedirect.com/science/article/pii/S030645732200348X">PDF</a>]
       [<a class="bib" data-bib="assets/LSRE-CAAN.bib" style="cursor:pointer">cite</a>]
-      [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </li>
-      
+      [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </div>
+</div>
+</div>
 
 -	<li style="text-align:justify"> Xingyu Yang, Xiaoteng Zheng, <strong>Jiahao Li<sup>&dagger;</sup></strong>, and Qingmei Huang. Aggregating closing position experts for online portfolio selection
       <i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.2) <br>
