@@ -67,17 +67,12 @@ redirect_from:
 	- [首届全国统计与数据科学联合会议](https://jcsds2023.pku.edu.cn/hyjj/243c942778ab4c2ca4710e3b9fa364f9.htm) (present in Jul 2023)
   - FinTech Seminar Series at Peking University (present in Nov 2023)
 
-- Huahao Lu, `Huihang Wu`. Can Stock Price Image Predict Future Return? Evidence from Chinese Stock Market. 202209.[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4171663)
-
 -  `吴辉航`, 魏行空, [张晓燕](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm). 机器学习视角下中国股票资产收益率可预测性研究. 201908.
 	- 论文曾获《第二届中国金融学术与政策论坛》优秀论文奖
 	- 2019年12月在《中国金融科技学术年会》进行展示
 	- 2019年12月《第二届中国金融学术与政策论坛》展示
 	- 2020年清华大学五道口金融学院鑫苑workshop展示
 	- 英文版[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3971419)
-
-- Xingkong Wei, `Huihang Wu`, [Xiaoyan Zhang](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm). Portfolio Rotation via Machine Learning. 201908.
-	- 论文曾在2019年中国金融科技学术年会进行展示
 
  -->
 
@@ -107,9 +102,8 @@ redirect_from:
 </div>
 
 	
-	
 - <span class="badge_new">AEL</span> <div style="text-align:justify">
-Xingyu Yang, Xiaoteng Zheng, <strong>Jiahao Li<sup>&dagger;</sup></strong>, and Qingmei Huang.
+Xingyu Yang, Xiaoteng Zheng, <strong><u>Jiahao Li</u><sup>&dagger;</sup></strong>, and Qingmei Huang.
 Aggregating closing position experts for online portfolio selection.
 <i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.2) <br>
 [<a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2368267">PDF</a>] 
@@ -117,13 +111,13 @@ Aggregating closing position experts for online portfolio selection.
 </div>
 
  
--	<li style="text-align:justify"> Yong Zhang, <strong>Jiahao Li</strong>, Xingyu Yang, and Jianliang Zhang. Competitive Online Strategy Based on Improved Exponential Gradient Expert and Aggregating Method
+-	<li style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Jianliang Zhang. Competitive Online Strategy Based on Improved Exponential Gradient Expert and Aggregating Method
       <i> Computational Economics</i>, 2024, 74(8): 1940-1953. (SCI/SSCI Q2, ABDC-B, IF=1.9) <br>
       [<a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">PDF</a>] 
       [<a class="bib" data-bib="assets/AIEG.bib" style="cursor:pointer">cite</a>]
       [<a href="https://github.com/jiahaoli57/AIEG">code</a>] </li>
 
--	<li style="text-align:justify"> Yong Zhang, <strong>Jiahao Li</strong>, Xingyu Yang, and Xiaohui Wang. Lease or financial lease? Deterministic strategies for on-line financial lease problem with the second-hand transaction
+-	<li style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Xiaohui Wang. Lease or financial lease? Deterministic strategies for on-line financial lease problem with the second-hand transaction
        <i> Journal of Combinatorial Optimization</i>, 2022, 44(2): 1248-1264. (SCI Q3, ABS/AJG-2, IF=0.9) <br>
        [<a href="https://link.springer.com/article/10.1007/s10878-022-00886-7">PDF</a>]
        [<a class="bib" data-bib="assets/Lease.bib" style="cursor:pointer">cite</a>]
