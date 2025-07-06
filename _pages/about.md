@@ -108,7 +108,7 @@ redirect_from:
 
 	
 	
-- <span class="badge_new">AEL</span>
+- <div class="badge_new">AEL</div>
 - <div style="text-align:justify">
 Xingyu Yang, Xiaoteng Zheng, <strong>Jiahao Li<sup>&dagger;</sup></strong>, and Qingmei Huang.
 Aggregating closing position experts for online portfolio selection.
