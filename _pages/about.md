@@ -90,10 +90,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR</div><img src='images/egdmd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, and Xiaoteng Zheng. Dynamic mode decomposition for online portfolio selection task
-      <i> European Journal of Operational Research</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4) <br>
-      [<a href="https://www.sciencedirect.com/science/article/pii/S030645732200348X">PDF</a>]
-      [<a class="bib" data-bib="assets/LSRE-CAAN.bib" style="cursor:pointer">cite</a>]
-      [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </div>
+      <i> European Journal of Operational Research</i>, 2025. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4) <br>
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">PDF</a>]
+      [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Dynamic+mode+decomposition+for+online+portfolio+selection+task&btnG=">cite</a>]
 </div>
 </div>
 
