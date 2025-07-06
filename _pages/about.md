@@ -89,12 +89,11 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SBE</div><img src='images/paper_sbe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
       
-- <li style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. Online portfolio management via deep reinforcement learning with high-frequency data
-      <i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4) <br>
-      [<a href="https://www.sciencedirect.com/science/article/pii/S030645732200348X">PDF</a>]
-      [<a class="bib" data-bib="assets/LSRE-CAAN.bib" style="cursor:pointer">cite</a>]
-      [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </li>
-      
+<li style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. Online portfolio management via deep reinforcement learning with high-frequency data
+<i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4) <br>
+[<a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">PDF</a>]
+[<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:6XYpaPE2CIEJ:scholar.google.com/&output=citation&scisdr=CgJot0Z2EKvtu6gvhXc:AAZF9b8AAAAAaGopnXdFNoyPSmQJ-7zD67fzndg&scisig=AAZF9b8AAAAAaGopnZsT259qK9c_N90w1YHEffw&scisf=4&ct=citation&cd=-1&hl=zh-CN">cite</a>]
+
 </div>
 </div>
 
