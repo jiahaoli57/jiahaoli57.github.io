@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "黎嘉豪"
-description              : "金融科技"
+description              : # "金融科技"
 repository               : "jiahaoli57/jiahaoli57.github.io"
 google_scholar_stats_use_cdn : true
 
