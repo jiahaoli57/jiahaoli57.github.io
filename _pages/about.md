@@ -20,16 +20,16 @@ redirect_from:
 # 个人简介
 
 <div style="text-align:justify"> 本人博士毕业于广东工业大学管理学院，是学院自成立以来首位本科直博生，目前在清华大学五道口金融学院从事博士后研究。在攻读博士学位期间，曾多次获得国家博士研究生国家奖学金、校优秀毕业生、校学业一等奖学金等荣誉，并两次获得校年度“十大攀撑学子”（研究生）提名以及多次入选校研究生拔尖创新型人才培养计划。</div>
-<div style="height: 0.5em;"></div>
+<div style="height: 0.7em;"></div>
 
 <div style="text-align:justify"> 我的研究兴趣主要集中在人工智能和机器学习在金融领域的一些交叉应用，在过去几年，本人在 <i>European Journal of Operational Research（ABS-4）、Journal of the Operational Research Society（ABS-3）、Information Processing & Management（中科院一区TOP）、Journal of Combinatorial Optimization、Computational Economics、管理工程学报、运筹与管理</i> 等高水平期刊上发表多篇学术论文。同时，担任 <i>IEEE Transactions on Neural Networks and Learning Systems、Quantitative Finance、Finance Research Letters、Neural Networks、Information Processing & Management</i> 等顶尖金融/计算机学术期刊的审稿人。此外，本人曾在纽约大学 <a href="https://engineering.nyu.edu/faculty/amine-mohamed-aboussalah">Amine M. Aboussalah</a> 教授的实验室呆过相当长的一段时间，并曾有幸在 <a href="https://www.cb.cityu.edu.hk/staff/jwang2/">王军波</a> 教授的指导下，于香港城市大学商学院经济与金融系进行过为期半年的博士联合培养。</div>
-<div style="height: 0.5em;"></div>
+<div style="height: 0.7em;"></div>
 
 <div style="text-align:justify"> 在学术之外，我研究如何通过结合数据驱动的方法解决一些有挑战性的现实问题（如投资组合优化、统计套利、量化交易等）。目前，我自营近100万的资金，并通过量化的方式在某一报价驱动的交易市场实现了月化8%至10%的无风险收益。交易收益将在不久后可自动化记录时于此同步展示。</div>
-<div style="height: 0.5em;"></div>
+<div style="height: 0.7em;"></div>
 
 <div style="text-align:justify"> 此外，本人也是微信小程序 <a href="https://mp.weixin.qq.com/s?__biz=Mzk0NTcyMTQyMA==&mid=2247483721&idx=1&sn=ffefeb9edc2104c06aa1fe4770ca3b01&chksm=c310586af467d17c611d0b058cd281ccd868db109c60152da94ae0e30ba7aedcb40dc821cfe5&token=1133777849&lang=zh_CN#rd">ABS分区表</a> 的独立开发者，该小程序已累计惠及全国超 26000 名经管研究生、导师与学者。</div>
-<div style="height: 0.5em;"></div>
+<div style="height: 0.7em;"></div>
 
 <div style="text-align:justify"> 如果我们的研究方向（或兴趣）相似，欢迎随时与我联系交流。</div>
 
