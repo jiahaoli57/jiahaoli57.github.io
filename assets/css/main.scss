@@ -109,12 +109,13 @@ h1:before, .anchor:before {
 }
 
 .badge_new {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    margin-top: .5em;
-    display: inline-block;  /* 使其成为行内块元素 */
-    color: white;
-    background-color: #00369f;
-    font-size: .7em;
+    padding: 0.25rem 1rem;  /* 上下内边距减少，保持左右内边距 */
+    margin-top: 0.5em;      /* 顶部边距 */
+    display: inline-block;   /* 使其成为行内块元素 */
+    color: white;            /* 文字颜色 */
+    background-color: #00369f; /* 背景色 */
+    font-size: 0.7em;        /* 字体大小 */
+    border-radius: 0.3em;    /* 圆角效果 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
 }
 
