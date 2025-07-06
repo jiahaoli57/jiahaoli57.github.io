@@ -86,17 +86,17 @@ redirect_from:
 
 ## 英文发表
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR</div><img src='images/egdmd1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSRN</div><img src='images/paper_llm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-      
--	<li style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. Online portfolio management via deep reinforcement learning with high-frequency data
-<li style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. Online portfolio management via deep reinforcement learning with high-frequency data
-<i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4) <br>
-[<a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">PDF</a>]
-[<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:6XYpaPE2CIEJ:scholar.google.com/&output=citation&scisdr=CgJot0Z2EKvtu6gvhXc:AAZF9b8AAAAAaGopnXdFNoyPSmQJ-7zD67fzndg&scisig=AAZF9b8AAAAAaGopnZsT259qK9c_N90w1YHEffw&scisf=4&ct=citation&cd=-1&hl=zh-CN">cite</a>]
+- Lin Tan, `Huihang Wu`, [Xiaoyan Zhang](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm).Large Language Models and Return Prediction in China. 202410.[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4712248)
+	- [ABFER-JFDS Annual Conference on AI and FinTech 2024](https://business.sustech.edu.cn/web/aicm/index.php) (present in Aug 2024)
+	- [Summer Institute in Finance (SIF) Annual Conference 2024](https://www.cafr-sif.com/conference.php) (present in Jul 2024)  
+	- [China Fintech Research Conference (CFTRC) 2024](https://conference.51xueshuo.com/#/index/M1711634265915396096) (present in Apr 2024)
+	- Seminar Series at Sun Yat-Sen University (present in Aug 2024)
+	- Tsinghua University and Summer Institute in Digital Finance (SIDF) 2024
+</div>
+</div>
 
-</div>
-</div>
 
 
 -	<li style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. Online portfolio management via deep reinforcement learning with high-frequency data
