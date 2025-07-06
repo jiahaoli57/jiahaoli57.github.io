@@ -73,7 +73,6 @@
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
-    margin-bottom: 0.5em;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
@@ -83,6 +82,10 @@
       }
     }
   }
+
+p {
+ line-height: 1.2; // 调整行高
+}
 
   a {
     text-decoration: auto;
