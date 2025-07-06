@@ -86,7 +86,7 @@ redirect_from:
 
 ## 英文发表
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SBE</div><img src='images/paper_sbe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR</div><img src='images/egdmd1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
       
 <li style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. Online portfolio management via deep reinforcement learning with high-frequency data
