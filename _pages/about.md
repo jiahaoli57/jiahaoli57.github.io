@@ -80,7 +80,7 @@ redirect_from:
 
 # 📚︎ 学术发表
 
-## 英文发表
+### 英文发表
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR</div><img src='images/egdmd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -126,7 +126,7 @@ Aggregating closing position experts for online portfolio selection.
        
 
 
-## 中文发表
+### 中文发表
 
 - 	白颢睿，`吴辉航`，柯岩. 中国股票市场月频动量效应消失之谜——基于 T+1 制度下隔夜折价现象的研究. *财经研究*. 2020,46(04):140-154.
 [[DOI]](https://dx.doi.org/10.16538/j.cnki.jfe.2020.04.010)[[下载]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=CJYJ202004011&uniplatform=NZKPT&v=PCtuhpE-K8vL3_5pkOFyio0MJWYMMCzMUp0JOH55u61iYNBRaaQy3JcdRUGm_mJo)
