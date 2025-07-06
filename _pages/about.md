@@ -108,11 +108,13 @@ redirect_from:
 
 	
 	
-- <div class="badge">AEL</div>
-<div style="text-align:justify; display: inline;" > Xingyu Yang, Xiaoteng Zheng, <strong>Jiahao Li<sup>&dagger;</sup></strong>, and Qingmei Huang. Aggregating closing position experts for online portfolio selection
-      <i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.2) <br>
-      [<a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2368267">PDF</a>] 
-      [<a class="bib" data-bib="assets/ACPE.bib" style="cursor:pointer">cite</a>] 
+- <div style="text-align:justify" >
+<span class="badge">AEL</span>
+Xingyu Yang, Xiaoteng Zheng, <strong>Jiahao Li<sup>&dagger;</sup></strong>, and Qingmei Huang.
+Aggregating closing position experts for online portfolio selection
+<i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.2) <br>
+[<a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2368267">PDF</a>] 
+[<a class="bib" data-bib="assets/ACPE.bib" style="cursor:pointer">cite</a>] 
 </div>
 
  
