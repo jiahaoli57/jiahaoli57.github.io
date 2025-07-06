@@ -32,7 +32,7 @@ redirect_from:
 <div style="height: 0.7em;"></div>
 
 
-<div style="text-align:justify; color:red; margin-top: 1.3em"> ⚡ 此外，我一直在寻找对科研充满热情的学生，共同探索数据驱动方法在金融领域的应用。如果你对 <a href="https://en.wikipedia.org/wiki/Portfolio_optimization">投资组合优化</a> 方向有浓厚兴趣，并具备出色的自驱力，欢迎与我联系。我们可以一起合作，将有趣的想法变为高质量的学术成果。</div>
+<div style="text-align:justify; color:red; margin-top: 1.3em"> ⚡ 此外，我一直在寻找对科研充满热情、自驱力强的学生。如果你对 <a href="https://en.wikipedia.org/wiki/Portfolio_optimization">投资组合优化</a> 方向有浓厚兴趣，欢迎与我联系。我们可以一起合作，将有趣的想法变为高质量的学术成果。</div>
 
 <span class='anchor' id='-gzjl'></span>
 # 💼 工作经历
