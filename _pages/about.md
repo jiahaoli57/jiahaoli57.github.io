@@ -87,7 +87,7 @@ redirect_from:
 
 ## 英文发表
 
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR</div><img src='images/egdmd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR</div><img src='images/egdmd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, and Xiaoteng Zheng. Dynamic mode decomposition for online portfolio selection task
       <i> European Journal of Operational Research</i>, 2025.  (SCI Q1, ABS-4, ABDC-A*, FMS-A, IF=6) <br>
@@ -96,7 +96,7 @@ redirect_from:
 </div>
 </div>
 
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/LSRE_CAAN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/LSRE_CAAN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. Online portfolio management via deep reinforcement learning with high-frequency data
       <i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4) <br>
@@ -112,8 +112,7 @@ redirect_from:
 <div style="text-align:justify"> Xingyu Yang, Xiaoteng Zheng, <strong>Jiahao Li<sup>&dagger;</sup></strong>, and Qingmei Huang. Aggregating closing position experts for online portfolio selection
       <i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.2) <br>
       [<a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2368267">PDF</a>] 
-      [<a class="bib" data-bib="assets/ACPE.bib" style="cursor:pointer">cite</a>] </div>
-
+      [<a class="bib" data-bib="assets/ACPE.bib" style="cursor:pointer">cite</a>]
 </div>
 
  
