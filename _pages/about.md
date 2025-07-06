@@ -105,8 +105,14 @@ redirect_from:
       [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </div>
 </div>
 </div>
-`ICML 2023`
--	`ICML 2023` <li style="text-align:justify"> Xingyu Yang, Xiaoteng Zheng, <strong>Jiahao Li<sup>&dagger;</sup></strong>, and Qingmei Huang. Aggregating closing position experts for online portfolio selection
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div></div></div>
+<div class='paper-box-text' markdown="1">
+	
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EQWE</div></div></div>
+<div class='paper-box-text' markdown="1">
+	
+- <li style="text-align:justify"> Xingyu Yang, Xiaoteng Zheng, <strong>Jiahao Li<sup>&dagger;</sup></strong>, and Qingmei Huang. Aggregating closing position experts for online portfolio selection
       <i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.2) <br>
       [<a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2368267">PDF</a>] 
       [<a class="bib" data-bib="assets/ACPE.bib" style="cursor:pointer">cite</a>]
