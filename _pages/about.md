@@ -27,6 +27,8 @@ redirect_from:
 
 此外，本人也是微信小程序 [ABS分区表](https://mp.weixin.qq.com/s?__biz=Mzk0NTcyMTQyMA==&mid=2247483721&idx=1&sn=ffefeb9edc2104c06aa1fe4770ca3b01&chksm=c310586af467d17c611d0b058cd281ccd868db109c60152da94ae0e30ba7aedcb40dc821cfe5&token=1133777849&lang=zh_CN#rd) 的独立开发者，该小程序已累计惠及全国超 26000 名经管研究生、导师与学者。
 
+如果我们的研究方向（或兴趣）相似，欢迎随时与我联系交流。
+
 <span class='anchor' id='-gzjl'></span>
 # 💼 工作经历
 
@@ -41,6 +43,7 @@ redirect_from:
 
 <span class='anchor' id='-workingpaper'></span>
 
+<!--
 # 📝 工作论文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSRN</div><img src='images/paper_llm.png' alt="sym" width="100%"></div></div>
@@ -71,14 +74,14 @@ redirect_from:
 - Xingkong Wei, `Huihang Wu`, [Xiaoyan Zhang](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm). Portfolio Rotation via Machine Learning. 201908.
 	- 论文曾在2019年中国金融科技学术年会进行展示
 
-
+ -->
 
 <span class='anchor' id='-publication'></span>
 
 # 📚︎ 学术发表
 
-### 英文发表
----
+## 英文发表
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SBE</div><img src='images/paper_sbe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -96,7 +99,7 @@ redirect_from:
 [[DOI]](https://doi.org/10.1111/irfi.12181) [[下载]](https://onlinelibrary.wiley.com/doi/abs/10.1111/irfi.12181)
 
 
-### 中文发表
+## 中文发表
 ---
 
 - 	白颢睿，`吴辉航`，柯岩. 中国股票市场月频动量效应消失之谜——基于 T+1 制度下隔夜折价现象的研究. *财经研究*. 2020,46(04):140-154.
