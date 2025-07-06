@@ -109,13 +109,12 @@ h1:before, .anchor:before {
 }
 
 .badge_new {
-    padding: 0.25rem 1rem;  /* 上下内边距减少，保持左右内边距 */
     padding-left: 1rem;
     padding-right: 1rem;
     margin-top: .5em;
     display: inline-block; /* 使其成为行内块元素 */
     color: white;
     background-color: #00369f;
-    font-size: .7em;
+    font-size: .6em;
 }
 
