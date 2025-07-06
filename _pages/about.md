@@ -84,12 +84,19 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SBE</div><img src='images/paper_sbe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
--	[Zhikuo Liu](https://econ.fudan.edu.cn/info/1028/22266.htm), `Huihang Wu`, [Jianfeng Wu](https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14257). Location-based tax incentives and entrepreneurial activities: Evidence from private new firms in China. *Small Business Economics*, 2019, 53(3): 729-742.
+      
+-  [Zhikuo Liu](https://econ.fudan.edu.cn/info/1028/22266.htm), `Huihang Wu`, [Jianfeng Wu](https://econ.fudan.edu.cn/sdpzw-con.jsp?urltype=news.NewsContentUrl&wbtreeid=1658&wbnewsid=14257). Location-based tax incentives and entrepreneurial activities: Evidence from private new firms in China. *Small Business Economics*, 2019, 53(3): 729-742.
 [[DOI]](https://doi.org/10.1007/s11187-017-9982-3) [[下载]](https://link.springer.com/article/10.1007/s11187-017-9982-3) 
 </div>
 </div>
 
+
+-	<li style="text-align:justify"> <strong>Jiahao Li</strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. "Online portfolio management via deep reinforcement learning with high-frequency data"
+      <i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4) <br>
+      [<a href="https://www.sciencedirect.com/science/article/pii/S030645732200348X">PDF</a>]
+      [<a class="bib" data-bib="assets/LSRE-CAAN.bib" style="cursor:pointer">cite</a>]
+      [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </li>
+      
 -  Guanchun Liu, Jun Zhang, `Huihang Wu`, Yuchao Peng. Financial Asset Allocations and R&D Activities:
   Evidence from China’ s Listed Companies, *Emerging Markets Finance and Trade*. 2019, 55(3): 531-544.
 [[DOI]](https://doi.org/10.1080/1540496X.2018.1451990) [[下载]](https://www.tandfonline.com/doi/abs/10.1080/1540496X.2018.1451990?journalCode=mree20) 
