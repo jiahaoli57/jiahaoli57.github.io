@@ -112,7 +112,7 @@ Aggregating closing position experts for online portfolio selection.
 </span>
 
  
--	<div style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Jianliang Zhang. Competitive Online Strategy Based on Improved Exponential Gradient Expert and Aggregating Method.
+- <span class="badge_new">CE</span>	<div style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Jianliang Zhang. Competitive Online Strategy Based on Improved Exponential Gradient Expert and Aggregating Method.
       <i> Computational Economics</i>, 2024, 74(8): 1940-1953. (SCI/SSCI Q2, ABDC-B, IF=1.9) <br>
       [<a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">PDF</a>] 
       [<a class="bib" data-bib="assets/AIEG.bib" style="cursor:pointer">cite</a>]
@@ -128,9 +128,32 @@ Aggregating closing position experts for online portfolio selection.
 
 ### 中文发表
 
-- 	<div style="text-align:justify"> 杨兴雨, 张健良, <strong>黎嘉豪</strong>, 张永. "基于集成专家意见的反转型在线投资组合策略研究"
+-	<div style="text-align:justify"> 张永, 莫婷婷, <strong><u>黎嘉豪<u></strong>, 杨兴雨.
+	时间异质性视角下移动窗口数据驱动的竞争性在线投资组合策略.
+      <i> 系统管理学报</i>, 2025, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) <br>
+      [<a href="https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2024-0162">PDF</a>] </div>
+      
+-	<div style="text-align:justify"> 张永, <strong><u>黎嘉豪<u></strong>, 刘悦, 张卫国. 
+	基于Transformer和关键特征的可解释端到端投资组合策略.
+      <i> 计量经济学报</i>, 2024, 4(5): 1381-1407. (CSSCI, FMS-T1) <br>
+      [<a href="https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2024-0162">PDF</a>] </div>
+	  
+- 	<div style="text-align:justify"> 张永, 刘悦, <strong><u>黎嘉豪<u></strong>, 王晓辉. 
+	端到端框架下基于LSTM和在线修正的适应性投资组合策略.
+      <i> 系统管理学报</i>, 2024, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) <br>
+      [<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml">PDF</a>] </div>
+	
+-	<div style="text-align:justify"> 杨兴雨, 张健良, <strong><u>黎嘉豪<u></strong>, 张永. 
+	基于集成专家意见的反转型在线投资组合策略研究.
         <i> 运筹与管理</i>, 2023, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) <br>
         [<a href="http://www.jorms.net/CN/volumn/current.shtml">PDF</a>] </div>
+
+-	<div style="text-align:justify"> 林虹, 张永, 杨兴雨, <strong><u>黎嘉豪<u></strong>. 
+	考虑组合预测股价的泛证券投资组合选择策略.
+      <i> 管理工程学报</i>, 2023, 37(5). (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T1) <br>
+      [<a href="https://kns.cnki.net/kcms2/article/abstract?v=AGKdHLbOuHfzJpoq7O55l6wFtGqJzm1NvK5S2IHcm4061XwndqDGrCHVH47ULImopGeYb8LkNDR-6HyLJNKdSsbwDg6XnLdyD6nAg8MvwlZqPoq2e5fRhA==&uniplatform=NZKPT&language=gb">PDF</a>] </div>
+
+
 
 <span class='anchor' id='-cbzz'></span>
 
