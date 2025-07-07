@@ -153,19 +153,19 @@ Lease or financial lease? Deterministic strategies for on-line financial lease p
       <i> 系统管理学报</i>, 2025, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) </span>
       
 - <span style="text-align:justify"> 张永, <strong><u>黎嘉豪</u></strong>, 刘悦, 张卫国. 
-	<a href="https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2024-0162"><u>基于Transformer和关键特征的可解释端到端投资组合策略.</u></a>
+	<a href="https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2024-0162" style="text-decoration: underline;">基于Transformer和关键特征的可解释端到端投资组合策略.</a>
       <i> 计量经济学报</i>, 2024, 4(5): 1381-1407. (CSSCI, FMS-T1) </span>
 	  
 - <span style="text-align:justify"> 张永, 刘悦, <strong><u>黎嘉豪</u></strong>, 王晓辉. 
-	<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml"><u>端到端框架下基于LSTM和在线修正的适应性投资组合策略.</u></a>
+	<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml" style="text-decoration: underline;">端到端框架下基于LSTM和在线修正的适应性投资组合策略.</a>
       <i> 系统管理学报</i>, 2024, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) </span>
 	
 - <span style="text-align:justify"> 杨兴雨, 张健良, <strong><u>黎嘉豪</u></strong>, 张永. 
-	<a href="http://www.jorms.net/CN/volumn/current.shtml"><u>基于集成专家意见的反转型在线投资组合策略研究.</u></a>
+	<a href="http://www.jorms.net/CN/volumn/current.shtml" style="text-decoration: underline;">基于集成专家意见的反转型在线投资组合策略研究.</a>
         <i> 运筹与管理</i>, 2023, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) </span>
 
 - <span style="text-align:justify"> 林虹, 张永, 杨兴雨, <strong><u>黎嘉豪</u></strong>. 
-	<a href="https://kns.cnki.net/kcms2/article/abstract?v=AGKdHLbOuHfzJpoq7O55l6wFtGqJzm1NvK5S2IHcm4061XwndqDGrCHVH47ULImopGeYb8LkNDR-6HyLJNKdSsbwDg6XnLdyD6nAg8MvwlZqPoq2e5fRhA==&uniplatform=NZKPT&language=gb"><u>考虑组合预测股价的泛证券投资组合选择策略.</u></a>
+	<a href="https://kns.cnki.net/kcms2/article/abstract?v=AGKdHLbOuHfzJpoq7O55l6wFtGqJzm1NvK5S2IHcm4061XwndqDGrCHVH47ULImopGeYb8LkNDR-6HyLJNKdSsbwDg6XnLdyD6nAg8MvwlZqPoq2e5fRhA==&uniplatform=NZKPT&language=gb" style="text-decoration: underline;">考虑组合预测股价的泛证券投资组合选择策略.</a>
       <i> 管理工程学报</i>, 2023, 37(5). (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T1) </span>
 
 
