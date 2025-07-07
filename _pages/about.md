@@ -85,7 +85,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR</div><img src='images/egdmd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, and Xiaoteng Zheng. Dynamic mode decomposition for online portfolio selection task.
-      <i> European Journal of Operational Research</i>, 2025. (SCI Q1, ABS-4, ABDC-A*, FMS-A, IF=6) <br>
+      <i> European Journal of Operational Research</i>, 2025. (SCI Q1, ABS-4, ABDC-A*, FMS-A, IF=6)
       [<a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">PDF</a>]
       [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Dynamic+mode+decomposition+for+online+portfolio+selection+task&btnG=">cite</a>] </div>
 </div>
@@ -94,7 +94,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/LSRE_CAAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. Online portfolio management via deep reinforcement learning with high-frequency data.
-      <i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4) <br>
+      <i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4)
       [<a href="https://www.sciencedirect.com/science/article/pii/S030645732200348X">PDF</a>]
       [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Online+portfolio+management+via+deep+reinforcement+learning+with+high-frequency+data&btnG=">cite</a>]
       [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </div>
@@ -105,7 +105,7 @@ redirect_from:
 - <span style="text-align:justify">
 Xingyu Yang, Xiaoteng Zheng, <strong><u>Jiahao Li</u><sup>&dagger;</sup></strong>, and Qingmei Huang.
 Aggregating closing position experts for online portfolio selection.
-<i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.2) <br>
+<i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.2)
 [<a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2368267">PDF</a>] 
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+closing+position+experts+for+online+portfolio+selection&btnG=">cite</a>] 
 </span>
@@ -113,7 +113,7 @@ Aggregating closing position experts for online portfolio selection.
 - <span style="text-align:justify">
 Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 Combined peak price tracking strategies for online portfolio selection based on the meta-algorithm.
-<i> Journal of the Operational Research Society</i>, 2024, 75(10): 2032-2051. (SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7) <br>
+<i> Journal of the Operational Research Society</i>, 2024, 75(10): 2032-2051. (SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7)
 [<a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2368267">PDF</a>] 
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+closing+position+experts+for+online+portfolio+selection&btnG=">cite</a>] 
 </span>
@@ -121,7 +121,7 @@ Combined peak price tracking strategies for online portfolio selection based on 
  
 - <span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Jianliang Zhang.
 Competitive Online Strategy Based on Improved Exponential Gradient Expert and Aggregating Method.
-<i> Computational Economics</i>, 2024, 64(2): 789-814. (SCI/SSCI Q2, ABDC-B, IF=1.9) <br>
+<i> Computational Economics</i>, 2024, 64(2): 789-814. (SCI/SSCI Q2, ABDC-B, IF=1.9)
 [<a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">PDF</a>] 
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Competitive+Online+Strategy+Based+on+Improved+Exponential+Gradient+Expert+and+Aggregating+Method&btnG=">cite</a>] 
 [<a href="https://github.com/jiahaoli57/AIEG">code</a>] </span>
@@ -129,7 +129,7 @@ Competitive Online Strategy Based on Improved Exponential Gradient Expert and Ag
  
 - <span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Hong Lin.
 Aggregating exponential gradient expert advice for online portfolio selection under transaction costs.
-<i> Journal of the Operational Research Society</i>, 2023, 74(8): 1940-1953. (SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7) <br>
+<i> Journal of the Operational Research Society</i>, 2023, 74(8): 1940-1953. (SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7)
 [<a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">PDF</a>] 
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+exponential+gradient+expert+advice+for+online+portfolio+selection+under+transaction+costs&btnG=">cite</a>] 
 [<a href="https://github.com/jiahaoli57/CAEGc">code</a>] </span>
@@ -147,9 +147,8 @@ Lease or financial lease? Deterministic strategies for on-line financial lease p
 ### 中文发表
 
 - <span style="text-align:justify"> 张永, 莫婷婷, <strong><u>黎嘉豪</u></strong>, 杨兴雨.
-	时间异质性视角下移动窗口数据驱动的竞争性在线投资组合策略.
-      <i> 系统管理学报</i>, 2025, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) <br>
-      [<a href="https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2024-0162">PDF</a>] </span>
+	<a href="https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2024-0162">时间异质性视角下移动窗口数据驱动的竞争性在线投资组合策略.</a>
+      <i> 系统管理学报</i>, 2025, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) </span>
       
 - <span style="text-align:justify"> 张永, <strong><u>黎嘉豪</u></strong>, 刘悦, 张卫国. 
 	基于Transformer和关键特征的可解释端到端投资组合策略.
