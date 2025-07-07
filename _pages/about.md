@@ -147,29 +147,24 @@ Lease or financial lease? Deterministic strategies for on-line financial lease p
 ### 中文发表
 
 - <span style="text-align:justify"> 张永, 莫婷婷, <strong><u>黎嘉豪</u></strong>, 杨兴雨.
-	<a href="https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2024-0162">时间异质性视角下移动窗口数据驱动的竞争性在线投资组合策略.</a>
+	<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml"><u>时间异质性视角下移动窗口数据驱动的竞争性在线投资组合策略.</u></a>
       <i> 系统管理学报</i>, 2025, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) </span>
       
 - <span style="text-align:justify"> 张永, <strong><u>黎嘉豪</u></strong>, 刘悦, 张卫国. 
-	基于Transformer和关键特征的可解释端到端投资组合策略.
-      <i> 计量经济学报</i>, 2024, 4(5): 1381-1407. (CSSCI, FMS-T1) <br>
-      [<a href="https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2024-0162">PDF</a>] </span>
+	<a href="https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2024-0162"><u>基于Transformer和关键特征的可解释端到端投资组合策略.</u></a>
+      <i> 计量经济学报</i>, 2024, 4(5): 1381-1407. (CSSCI, FMS-T1) </span>
 	  
 - <span style="text-align:justify"> 张永, 刘悦, <strong><u>黎嘉豪</u></strong>, 王晓辉. 
-	端到端框架下基于LSTM和在线修正的适应性投资组合策略.
-      <i> 系统管理学报</i>, 2024, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) <br>
-      [<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml">PDF</a>] </span>
+	<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml"><u>端到端框架下基于LSTM和在线修正的适应性投资组合策略.</u></a>
+      <i> 系统管理学报</i>, 2024, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) </span>
 	
 - <span style="text-align:justify"> 杨兴雨, 张健良, <strong><u>黎嘉豪</u></strong>, 张永. 
-	基于集成专家意见的反转型在线投资组合策略研究.
-        <i> 运筹与管理</i>, 2023, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) <br>
-        [<a href="http://www.jorms.net/CN/volumn/current.shtml">PDF</a>] </span>
+	<a href="http://www.jorms.net/CN/volumn/current.shtml"><u>基于集成专家意见的反转型在线投资组合策略研究.</u></a>
+        <i> 运筹与管理</i>, 2023, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) </span>
 
 - <span style="text-align:justify"> 林虹, 张永, 杨兴雨, <strong><u>黎嘉豪</u></strong>. 
-	考虑组合预测股价的泛证券投资组合选择策略.
-      <i> 管理工程学报</i>, 2023, 37(5). (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T1) <br>
-      [<a href="https://kns.cnki.net/kcms2/article/abstract?v=AGKdHLbOuHfzJpoq7O55l6wFtGqJzm1NvK5S2IHcm4061XwndqDGrCHVH47ULImopGeYb8LkNDR-6HyLJNKdSsbwDg6XnLdyD6nAg8MvwlZqPoq2e5fRhA==&uniplatform=NZKPT&language=gb">PDF</a>] </span>
-
+	<a href="https://kns.cnki.net/kcms2/article/abstract?v=AGKdHLbOuHfzJpoq7O55l6wFtGqJzm1NvK5S2IHcm4061XwndqDGrCHVH47ULImopGeYb8LkNDR-6HyLJNKdSsbwDg6XnLdyD6nAg8MvwlZqPoq2e5fRhA==&uniplatform=NZKPT&language=gb"><u>考虑组合预测股价的泛证券投资组合选择策略.</u></a>
+      <i> 管理工程学报</i>, 2023, 37(5). (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T1) </span>
 
 
 <span class='anchor' id='-cbzz'></span>
