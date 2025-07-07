@@ -22,7 +22,7 @@ redirect_from:
 <div style="text-align:justify"> 本人博士毕业于广东工业大学管理学院，是学院自成立以来首位本科直博生，目前在清华大学五道口金融学院从事博士后研究。在攻读博士学位期间，曾多次获得国家博士研究生国家奖学金、校优秀毕业生、校学业一等奖学金等荣誉，并两次获得校年度“十大攀撑学子”（研究生）提名以及多次入选校研究生拔尖创新型人才培养计划。</div>
 <div style="height: 0.7em;"></div>
 
-<div style="text-align:justify"> 我的研究兴趣主要集中在人工智能和机器学习在金融领域的一些交叉应用，在过去几年，本人在 <i>European Journal of Operational Research（ABS-4）、Journal of the Operational Research Society（ABS-3）、Information Processing & Management（中科院一区TOP）、Journal of Combinatorial Optimization、Computational Economics、管理工程学报、运筹与管理</i> 等高水平期刊上发表多篇学术论文。同时，担任 <i>IEEE Transactions on Neural Networks and Learning Systems、Quantitative Finance、Finance Research Letters、Neural Networks、Information Processing & Management</i> 等顶尖金融/计算机学术期刊的审稿人。此外，本人曾在纽约大学 <a href="https://engineering.nyu.edu/faculty/amine-mohamed-aboussalah">Amine M. Aboussalah</a> 教授的实验室呆过相当长的一段时间，并曾有幸在 <a href="https://www.cb.cityu.edu.hk/staff/jwang2/">王军波</a> 教授的指导下，于香港城市大学商学院经济与金融系进行过为期半年的博士联合培养。</div>
+<div style="text-align:justify"> 我的研究兴趣主要集中在人工智能和机器学习在金融领域的一些交叉应用，在过去几年，本人在 <i>European Journal of Operational Research（ABS-4）、Journal of the Operational Research Society（ABS-3）、Information Processing & Management（中科院一区TOP）、Journal of Combinatorial Optimization、Computational Economics、管理工程学报、运筹与管理</i> 等高水平期刊上发表多篇学术论文。同时，担任 <i>IEEE Transactions on Neural Networks and Learning Systems、Quantitative Finance、Finance Research Letters、Neural Networks、Information Processing & Management</i> 等顶尖金融/计算机学术期刊的审稿人。此外，本人曾在纽约大学 <a href="https://engineering.nyu.edu/faculty/amine-mohamed-aboussalah">Amine M. Aboussalah</a> 教授的实验室呆过相当长的一段时间，并曾有幸在 <a href="https://www.cb.cityu.edu.hk/staff/jwang2/">王军波</a> 教授的指导下，于香港城市大学商学院经济与金融系进行过为期半年的访问。</div>
 <div style="height: 0.7em;"></div>
 
 <div style="text-align:justify"> 在学术之外，我研究如何通过结合数据驱动的方法解决一些有挑战性的现实问题（如投资组合优化、统计套利、量化交易等）。目前，我自营近100万的资金，并通过量化的方式在某一报价驱动的交易市场实现了月化8%至10%的无风险收益。交易收益将在不久后可自动化记录时于此同步展示。</div>
@@ -35,16 +35,18 @@ redirect_from:
 <div style="text-align:justify; color:red; margin-top: 1.3em"> ⚡ 此外，我一直在寻找对科研充满热情、自驱力强的学生。如果你对 <a href="https://en.wikipedia.org/wiki/Portfolio_optimization">投资组合优化</a> 方向有浓厚兴趣，欢迎与我联系。我们可以一起合作，将有趣的想法变为高质量的学术成果。</div>
 
 <span class='anchor' id='-gzjl'></span>
-# 💼 工作经历
+# 工作经历
 
 - *2025.07 至今*，<a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学 五道口金融学院，博士后研究员（合作导师：[廖理](https://www.pbcsf.tsinghua.edu.cn/info/1018/1026.htm) 教授）
 
 <span class='anchor' id='-jybj'></span>
 
-# 🎓 教育背景
+# 教育背景
 - *2020.09 – 2025.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/dc6d43cd5236455ba57685db6a90384e.jpeg" width="23pt"></a> 广东工业大学 管理学院，管理科学与工程专业，直博（指导老师：[张永](https://glxy.gdut.edu.cn/info/1292/28915_10.htm) 教授）
 
 - *2016.09 – 2020.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/dc6d43cd5236455ba57685db6a90384e.jpeg" width="23pt"></a> 广东工业大学 管理学院，管理科学专业，本科（指导老师：[杨兴雨](https://glxy.gdut.edu.cn/info/1292/28914_5.htm) 教授）
+
+- *2016.09 – 2020.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/cityu.png" width="23pt"></a> 香港城市大学 商学院，经济与金融系，访问研究生（指导老师：[王军波](https://www.cb.cityu.edu.hk/staff/jwang2/) 教授）
 
 <span class='anchor' id='-workingpaper'></span>
 
@@ -147,7 +149,7 @@ Lease or financial lease? Deterministic strategies for on-line financial lease p
 ### 中文发表
 
 - <span style="text-align:justify"> 张永, 莫婷婷, <strong><u>黎嘉豪</u></strong>, 杨兴雨.
-	<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml"><u>时间异质性视角下移动窗口数据驱动的竞争性在线投资组合策略.</u></a>
+	<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml" style="text-decoration: none;">时间异质性视角下移动窗口数据驱动的竞争性在线投资组合策略.</a>
       <i> 系统管理学报</i>, 2025, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) </span>
       
 - <span style="text-align:justify"> 张永, <strong><u>黎嘉豪</u></strong>, 刘悦, 张卫国. 
