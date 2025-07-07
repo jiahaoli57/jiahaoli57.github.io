@@ -128,36 +128,9 @@ Aggregating closing position experts for online portfolio selection.
 
 ### 中文发表
 
-- 	白颢睿，`吴辉航`，柯岩. 中国股票市场月频动量效应消失之谜——基于 T+1 制度下隔夜折价现象的研究. *财经研究*. 2020,46(04):140-154.
-[[DOI]](https://dx.doi.org/10.16538/j.cnki.jfe.2020.04.010)[[下载]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=CJYJ202004011&uniplatform=NZKPT&v=PCtuhpE-K8vL3_5pkOFyio0MJWYMMCzMUp0JOH55u61iYNBRaaQy3JcdRUGm_mJo)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">经济研究</div><img src='images/paper_beps.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- 	[刘志阔](https://econ.fudan.edu.cn/info/1028/22266.htm)，陈钊，`吴辉航`，张瑶. 中国企业的税基侵蚀和利润转移——国际税收治理体系重构下的中国经验. *经济研究*. 2019,54(2):21-35. [[下载]](https://kns.cnki.net/kcms2/article/abstract?v=64ENavj7QCAX0T-CLEBLN6Uz1AhFhI_TO5fp12YmQoo0DnLtPJM7Wr0-k4mX2E9YG1HBC-u7WPbqbT4FXip1QZOoBlYQSDPeZpfm3rLr8ITUmG3wAmgvcM27kiYXuuDXk4mYuT7zpGn80z6IxPN5Wg==&uniplatform=NZKPT&language=CHS)  
-	- 2016年“第二届中国财政学论坛”优秀论文奖 [[新闻]](https://cpfi.sufe.edu.cn/10632/list.htm)
-	- 2020年《世界经济年鉴》国际投资学2019年最佳中国论文TOP10 [[新闻]](https://baike.baidu.com/reference/61771952/533aYdO6cr3_z3kATKWNzvvxMivENIipvraCUrpzzqIPmGapB5nyTcYh798qsPRoGUTK_8wwOYdCzrj7CiRC7P4Sd-4)
-	- 第二十一届安子介国际贸易研究奖 [[新闻]](https://kyc.uibe.edu.cn/tzgg/4bde4ca641ab47ec986c19644c71199d.htm)
-	- 2021年普华永道第二届PwC金融论坛年度最佳论文奖 [[新闻]](https://baike.baidu.com/reference/61771952/533aYdO6cr3_z3kATPHdzPvwOnzFNN-st7PaALJzzqIPmGapB5nyTcYi99Q88LlkGwaEqpAtcMQQhfvnSBQas-hQM7h2AahgyCqqAnCXiqGmvcQxm9FDoYtdAOlK2w)
-	- 上海市第十五届哲学社会科学优秀成果奖——学科学术优秀成果奖（一等奖）
-	- 商务发展研究成果奖（2021年）论文类优秀奖（商务部颁发）
-	- 教育部公布第九届高等学校科学研究优秀成果奖三等奖（人文社会科学）
-</div>
-</div>
-
-- 	刘贯春，`吴辉航`，刘媛媛. 最低工资制度如何影响中国的产业结构？. *数量经济技术经济研究*. 2018, 35(6): 40-59.
-[[DOI]](https://dx.doi.org/10.13653/j.cnki.jqte.20180608.003)[[下载]](https://kns.cnki.net/kcms2/article/abstract?v=64ENavj7QCDqabQ1ITjnH33Wf-sAgDMYCmXyIDR9jHJ5fKTFwzRqINfai5VfCnE9mYvtwnb54KP-elM20K8kv6fmKovCCkcBM8LeUvosUl2lXalWy_HvPPWi4ijzsmR1lGXtfpVL1-FHN2HvFMwupA==&uniplatform=NZKPT&language=CHS)
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">财经研究</div><img src='images/paper_cjyj.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- 	`吴辉航`，[刘小兵](https://spea.sufe.edu.cn/44/ea/c13240a214250/page.htm)，季永宝. 减税能否提高企业生产效率——基于西部大开发准自然实验的研究. *财经研究*. 2017,43(4):55-67.[[DOI]](https://dx.doi.org/10.16538/j.cnki.jfe.2017.04.005)[[下载]](https://kns.cnki.net/kcms2/article/abstract?v=64ENavj7QCDhM_gbQSZckVoceAS3zs7_Qny4s2ziSnJPa-tYdaZmanpduRN6cLhb-MFr7JDvibzE9BHNnPVgnI0fgszWTbeqCQc-ouy3y4-5VgLi7vUK9sSVFq7_J6cjggVOYUxbJ_Sv5fG_ThwyJg0yEFDT9BvFBoYOrvx6U-9lfI_va-qIvIdsTzuHqtuC&uniplatform=NZKPT&language=CHS)
-	- 《人大复印资料》于 2017 年第 7 期全文转载  
-	- 第三届“区域科学与城市经济前沿”学术论坛三等奖  
-	- 第二届“全国中青年税收学术研讨会”优秀论文奖
-</div>
-</div>
+- 	<div style="text-align:justify"> 杨兴雨, 张健良, <strong>黎嘉豪</strong>, 张永. "基于集成专家意见的反转型在线投资组合策略研究"
+        <i> 运筹与管理</i>, 2023, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) <br>
+        [<a href="http://www.jorms.net/CN/volumn/current.shtml">PDF</a>] </div>
 
 <span class='anchor' id='-cbzz'></span>
 
