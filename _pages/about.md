@@ -111,13 +111,32 @@ Aggregating closing position experts for online portfolio selection.
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+closing+position+experts+for+online+portfolio+selection&btnG=">cite</a>] 
 </span>
 
+- <span class="badge_new">JORS</span>
+<span style="text-align:justify">
+Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
+Combined peak price tracking strategies for online portfolio selection based on the meta-algorithm.
+<i> Journal of the Operational Research Society</i>, 2024, 75(10): 2032-2051. (SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7) <br>
+[<a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2368267">PDF</a>] 
+[<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+closing+position+experts+for+online+portfolio+selection&btnG=">cite</a>] 
+</span>
+
  
 - <span class="badge_new">CE</span>
-<span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Jianliang Zhang. Competitive Online Strategy Based on Improved Exponential Gradient Expert and Aggregating Method.
-      <i> Computational Economics</i>, 2024, 74(8): 1940-1953. (SCI/SSCI Q2, ABDC-B, IF=1.9) <br>
-      [<a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">PDF</a>] 
-      [<a class="bib" data-bib="assets/AIEG.bib" style="cursor:pointer">cite</a>]
-      [<a href="https://github.com/jiahaoli57/AIEG">code</a>] </span>
+<span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Jianliang Zhang.
+Competitive Online Strategy Based on Improved Exponential Gradient Expert and Aggregating Method.
+<i> Computational Economics</i>, 2024, 64(2): 789-814. (SCI/SSCI Q2, ABDC-B, IF=1.9) <br>
+[<a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">PDF</a>] 
+[<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Competitive+Online+Strategy+Based+on+Improved+Exponential+Gradient+Expert+and+Aggregating+Method&btnG=">cite</a>] 
+[<a href="https://github.com/jiahaoli57/AIEG">code</a>] </span>
+
+ 
+- <span class="badge_new">JORS</span>
+<span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Hong Lin.
+Aggregating exponential gradient expert advice for online portfolio selection under transaction costs.
+<i> Journal of the Operational Research Society</i>, 2023, 74(8): 1940-1953. (SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7) <br>
+[<a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">PDF</a>] 
+[<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+exponential+gradient+expert+advice+for+online+portfolio+selection+under+transaction+costs&btnG=">cite</a>] 
+[<a href="https://github.com/jiahaoli57/CAEGc">code</a>] </span>
 
 
 - <span class="badge_new">JOCO</span>
