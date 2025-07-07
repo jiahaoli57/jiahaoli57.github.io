@@ -84,7 +84,6 @@ redirect_from:
 
 ### 英文发表
 
-<p> <strong>&dagger;</strong> 通讯作者</p>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR</div><img src='images/egdmd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, and Xiaoteng Zheng. 
