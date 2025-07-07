@@ -149,7 +149,7 @@ Lease or financial lease? Deterministic strategies for on-line financial lease p
 ### 中文发表
 
 - <span style="text-align:justify"> 张永, 莫婷婷, <strong><u>黎嘉豪</u></strong>, 杨兴雨.
-	<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml" style="text-decoration: none;">时间异质性视角下移动窗口数据驱动的竞争性在线投资组合策略.</a>
+	<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml" style="text-decoration: underline;">时间异质性视角下移动窗口数据驱动的竞争性在线投资组合策略.</a>
       <i> 系统管理学报</i>, 2025, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) </span>
       
 - <span style="text-align:justify"> 张永, <strong><u>黎嘉豪</u></strong>, 刘悦, 张卫国. 
