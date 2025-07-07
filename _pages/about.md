@@ -112,17 +112,17 @@ Aggregating closing position experts for online portfolio selection.
 </span>
 
  
--	<li style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Jianliang Zhang. Competitive Online Strategy Based on Improved Exponential Gradient Expert and Aggregating Method
+-	<div style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Jianliang Zhang. Competitive Online Strategy Based on Improved Exponential Gradient Expert and Aggregating Method.
       <i> Computational Economics</i>, 2024, 74(8): 1940-1953. (SCI/SSCI Q2, ABDC-B, IF=1.9) <br>
       [<a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">PDF</a>] 
       [<a class="bib" data-bib="assets/AIEG.bib" style="cursor:pointer">cite</a>]
-      [<a href="https://github.com/jiahaoli57/AIEG">code</a>] </li>
+      [<a href="https://github.com/jiahaoli57/AIEG">code</a>] </div>
 
--	<li style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Xiaohui Wang. Lease or financial lease? Deterministic strategies for on-line financial lease problem with the second-hand transaction
+-	<div style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Xiaohui Wang. Lease or financial lease? Deterministic strategies for on-line financial lease problem with the second-hand transaction.
        <i> Journal of Combinatorial Optimization</i>, 2022, 44(2): 1248-1264. (SCI Q3, ABS/AJG-2, IF=0.9) <br>
        [<a href="https://link.springer.com/article/10.1007/s10878-022-00886-7">PDF</a>]
        [<a class="bib" data-bib="assets/Lease.bib" style="cursor:pointer">cite</a>]
-       [<a href="https://github.com/jiahaoli57/Lease-or-financial-lease">code</a>] 
+       [<a href="https://github.com/jiahaoli57/Lease-or-financial-lease">code</a>]  </div>
        
 
 
