@@ -84,6 +84,7 @@ redirect_from:
 
 ### 英文发表
 
+<p> <strong>&dagger;</strong> 通讯作者</p>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR</div><img src='images/egdmd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, and Xiaoteng Zheng. 
@@ -115,7 +116,6 @@ Xingyu Yang, Xiaoteng Zheng, <strong><u>Jiahao Li</u><sup>&dagger;</sup></strong
 Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 <a href="https://www.tandfonline.com/doi/full/10.1080/01605682.2023.2295975">Combined peak price tracking strategies for online portfolio selection based on the meta-algorithm.</a>
 <i> Journal of the Operational Research Society</i>, 2024, 75(10): 2032-2051. (SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7)
-[<a href="">PDF</a>] 
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+closing+position+experts+for+online+portfolio+selection&btnG=">cite</a>] 
 </span>
 
@@ -123,7 +123,6 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 - <span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Jianliang Zhang.
 <a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">Competitive online strategy based on improved exponential gradient expert and aggregating method.</a>
 <i> Computational Economics</i>, 2024, 64(2): 789-814. (SCI/SSCI Q2, ABDC-B, IF=1.9)
-[<a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">PDF</a>] 
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Competitive+Online+Strategy+Based+on+Improved+Exponential+Gradient+Expert+and+Aggregating+Method&btnG=">cite</a>] 
 [<a href="https://github.com/jiahaoli57/AIEG">code</a>] </span>
 
@@ -166,6 +165,7 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
       <i> 管理工程学报</i>, 2023, 37(5). (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T1) </span>
 
 
+<p> <strong>&dagger;</strong> 通讯作者</p>
 <span class='anchor' id='-cbzz'></span>
 
 # 获奖情况
