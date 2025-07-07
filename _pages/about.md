@@ -102,8 +102,7 @@ redirect_from:
 </div>
 
 	
-- <span class="badge_new">AEL</span>
-<span style="text-align:justify">
+- <span style="text-align:justify">
 Xingyu Yang, Xiaoteng Zheng, <strong><u>Jiahao Li</u><sup>&dagger;</sup></strong>, and Qingmei Huang.
 Aggregating closing position experts for online portfolio selection.
 <i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.2) <br>
@@ -111,8 +110,7 @@ Aggregating closing position experts for online portfolio selection.
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+closing+position+experts+for+online+portfolio+selection&btnG=">cite</a>] 
 </span>
 
-- <span class="badge_new">JORS</span>
-<span style="text-align:justify">
+- <span style="text-align:justify">
 Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 Combined peak price tracking strategies for online portfolio selection based on the meta-algorithm.
 <i> Journal of the Operational Research Society</i>, 2024, 75(10): 2032-2051. (SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7) <br>
@@ -121,8 +119,7 @@ Combined peak price tracking strategies for online portfolio selection based on 
 </span>
 
  
-- <span class="badge_new">CE</span>
-<span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Jianliang Zhang.
+- <span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Jianliang Zhang.
 Competitive Online Strategy Based on Improved Exponential Gradient Expert and Aggregating Method.
 <i> Computational Economics</i>, 2024, 64(2): 789-814. (SCI/SSCI Q2, ABDC-B, IF=1.9) <br>
 [<a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">PDF</a>] 
@@ -130,8 +127,7 @@ Competitive Online Strategy Based on Improved Exponential Gradient Expert and Ag
 [<a href="https://github.com/jiahaoli57/AIEG">code</a>] </span>
 
  
-- <span class="badge_new">JORS</span>
-<span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Hong Lin.
+- <span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Hong Lin.
 Aggregating exponential gradient expert advice for online portfolio selection under transaction costs.
 <i> Journal of the Operational Research Society</i>, 2023, 74(8): 1940-1953. (SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7) <br>
 [<a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">PDF</a>] 
@@ -139,43 +135,38 @@ Aggregating exponential gradient expert advice for online portfolio selection un
 [<a href="https://github.com/jiahaoli57/CAEGc">code</a>] </span>
 
 
-- <span class="badge_new">JOCO</span>
-<span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Xiaohui Wang. Lease or financial lease? Deterministic strategies for on-line financial lease problem with the second-hand transaction.
-       <i> Journal of Combinatorial Optimization</i>, 2022, 44(2): 1248-1264. (SCI Q3, ABS/AJG-2, IF=0.9) <br>
-       [<a href="https://link.springer.com/article/10.1007/s10878-022-00886-7">PDF</a>]
-       [<a class="bib" data-bib="assets/Lease.bib" style="cursor:pointer">cite</a>]
-       [<a href="https://github.com/jiahaoli57/Lease-or-financial-lease">code</a>]  </span>
-       
+- <span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Xiaohui Wang.
+Lease or financial lease? Deterministic strategies for on-line financial lease problem with the second-hand transaction.
+<i> Journal of Combinatorial Optimization</i>, 2022, 44(2): 1248-1264. (SCI Q3, ABS/AJG-2, IF=0.9) <br>
+[<a href="https://link.springer.com/article/10.1007/s10878-022-00886-7">PDF</a>]
+[<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Lease+or+financial+lease%3F+Deterministic+strategies+for+on-line+financial+lease+problem+with+the+second-hand+transaction.&btnG=">cite</a>] 
+[<a href="https://github.com/jiahaoli57/Lease-or-financial-lease">code</a>]  </span>
+
 
 
 ### 中文发表
 
-- <span class="badge_new">系统管理学报</span>
-<span style="text-align:justify"> 张永, 莫婷婷, <strong><u>黎嘉豪</u></strong>, 杨兴雨.
+- <span style="text-align:justify"> 张永, 莫婷婷, <strong><u>黎嘉豪</u></strong>, 杨兴雨.
 	时间异质性视角下移动窗口数据驱动的竞争性在线投资组合策略.
       <i> 系统管理学报</i>, 2025, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) <br>
       [<a href="https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2024-0162">PDF</a>] </span>
       
-- <span class="badge_new">计量经济学报</span>
-<span style="text-align:justify"> 张永, <strong><u>黎嘉豪</u></strong>, 刘悦, 张卫国. 
+- <span style="text-align:justify"> 张永, <strong><u>黎嘉豪</u></strong>, 刘悦, 张卫国. 
 	基于Transformer和关键特征的可解释端到端投资组合策略.
       <i> 计量经济学报</i>, 2024, 4(5): 1381-1407. (CSSCI, FMS-T1) <br>
       [<a href="https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2024-0162">PDF</a>] </span>
 	  
-- <span class="badge_new">系统管理学报</span>
-<span style="text-align:justify"> 张永, 刘悦, <strong><u>黎嘉豪</u></strong>, 王晓辉. 
+- <span style="text-align:justify"> 张永, 刘悦, <strong><u>黎嘉豪</u></strong>, 王晓辉. 
 	端到端框架下基于LSTM和在线修正的适应性投资组合策略.
       <i> 系统管理学报</i>, 2024, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) <br>
       [<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml">PDF</a>] </span>
 	
-- <span class="badge_new">运筹与管理</span>
-<span style="text-align:justify"> 杨兴雨, 张健良, <strong><u>黎嘉豪</u></strong>, 张永. 
+- <span style="text-align:justify"> 杨兴雨, 张健良, <strong><u>黎嘉豪</u></strong>, 张永. 
 	基于集成专家意见的反转型在线投资组合策略研究.
         <i> 运筹与管理</i>, 2023, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) <br>
         [<a href="http://www.jorms.net/CN/volumn/current.shtml">PDF</a>] </span>
 
-- <span class="badge_new">管理工程学报</span>
-<span style="text-align:justify"> 林虹, 张永, 杨兴雨, <strong><u>黎嘉豪</u></strong>. 
+- <span style="text-align:justify"> 林虹, 张永, 杨兴雨, <strong><u>黎嘉豪</u></strong>. 
 	考虑组合预测股价的泛证券投资组合选择策略.
       <i> 管理工程学报</i>, 2023, 37(5). (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T1) <br>
       [<a href="https://kns.cnki.net/kcms2/article/abstract?v=AGKdHLbOuHfzJpoq7O55l6wFtGqJzm1NvK5S2IHcm4061XwndqDGrCHVH47ULImopGeYb8LkNDR-6HyLJNKdSsbwDg6XnLdyD6nAg8MvwlZqPoq2e5fRhA==&uniplatform=NZKPT&language=gb">PDF</a>] </span>
@@ -184,59 +175,25 @@ Aggregating exponential gradient expert advice for online portfolio selection un
 
 <span class='anchor' id='-cbzz'></span>
 
-# 🕮 出版专著
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">专著</div><img src='images/book_apml.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-出版专著《机器学习与资产定价》，这本书在国内最早的一本关于机器学习在资产定价领域的专著，2022年5月在清华大学出版社出版，本书的作者为：`吴辉航`, 魏行空和[张晓燕](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm)教授。
-
-- 本书邀请到了南方科技大学商学院讲席教授[**周皓**](https://sites.google.com/site/haozhouspersonalhomepage/)和俄亥俄州立大学菲舍尔商学院Ric Dillon投资学讲席教授[**侯恪惟**](https://fisher.osu.edu/people/hou.28)写推荐语，芝加哥大学布斯商学院[**修大成**](http://dachxiu.chicagobooth.edu/)教授写推荐序。
-
-- 本书系统性地介绍了资产定价和机器学习算法的基础理论与实践知识，并以机器学习算法应用于中国股票市场资产收益率预测项目为案例，具体展示了机器学习算法落地应用于中国金融业界的流程和效果。
-
-- 本书主要内容包括资产定价基础方法、机器学习算法评估知识、线性机器学习模型、回归树类机器学习模型、神经网络模型、中国股票市场制度背景、机器学习项目的数据清洗过程和机器学习项目的实践案例。
-
-</div>
-</div>
-
-<span class='anchor' id='-ryjx'></span>
-
-# 🏅 荣誉奖项
-- *201802* 获得 上海财经大学“经佳创业创新学术奖”   
-- *201712* 获得 上海财经大学第二届“学术之星”称号 [新闻](https://baike.baidu.com/reference/61771952/533aYdO6cr3_z3kATPLez_TxN32XNtWrubPUVOdzzqIPmGapB5b2WcYh9dE6sPJjAUXIvtc6MpkRlaepDUpH7aYZeO02RKpizCGqTWuGlA)
-- *201710* 获得 博士研究生国家奖学金
-- *201410* 获得 硕士研究生国家奖学金
-
+# 获奖情况
+- 广东工业大学优秀毕业生
+- 2024年度“十大攀撑学子”（研究生）提名奖 (12/14000+, 入选率低于0.08%)
+- 2023-2024学年度博士研究生学业一等奖学金
+- 2024年度博士研究生拔尖创新型人才培养对象
+- 2023年度“十大攀撑学子”（研究生）提名奖 (15/10000+, 入选率低于0.15%)
+- 2023年博士研究生国家奖学金
+- 2023优秀博士研究生出国 (境) 专项资助
+- 2022-2023学年度博士研究生学业一等奖学金
+- 2022年博士生新生学业奖学金
+- 2021年度硕士研究生拔尖创新型人才培养对象
+- 2020-2021学年度硕士研究生二等学业奖学金
+- 2020年度博士研究生新生奖学金
 
 <span class='anchor' id='-nonac'></span>
-# 🏛️ 非学术期刊发表
-### 清华金融评论
-- [张晓燕](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm),`吴辉航`.大语言模型在金融领域的应用[J].清华金融评论,2024,(05):22-26.[[DOI]](https://dx.doi.org/10.19409/j.cnki.thf-review.2024.05.013).
-- [张晓燕](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm),`吴辉航`,谭琳.中国个人投资者线上理财投资绩效归因研究[J].清华金融评论,2023,(04):109-112.[[DOI]](https://dx.doi.org/10.19409/j.cnki.thf-review.2023.04.025).
-- `吴辉航`,游旭挺,殷子涵,等.中国外资私募证券基金行业发展现状及未来展望[J].清华金融评论,2022,(06):107-112.[[DOI]](https://dx.doi.org/10.19409/j.cnki.thf-review.2022.06.014).
-- `吴辉航`,王艺熹.互联网财富管理：迈向共同富裕新时代[J].清华金融评论,2022,(06):44-46.[[DOI]](https://dx.doi.org/10.19409/j.cnki.thf-review.2022.06.017).
-- [张晓燕](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm),`吴辉航`,葛慧敏.数字经济时代下中国财富管理行业研究——互联网技术的经济影响[J].清华金融评论,2022,(03):103-108.[[DOI]](https://dx.doi.org/10.19409/j.cnki.thf-review.2022.03.005).
-- [张晓燕](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm),`吴辉航`.证券市场做空制度该不该限制——美国证监会做空制度改革的溢出效应分析[J].清华金融评论,2020,(10):99-100.[[DOI]](https://dx.doi.org/10.19409/j.cnki.thf-review.2020.10.029).
 
-### 白皮书
-- 2021年10月，作为主要负责人和作者与WEF联合发表金融科技研究白皮书. 《数字化财富管理如何助力后疫情时代经济复苏——来自中国的经验》，[[中文版下载]](https://cn.weforum.org/whitepapers/global-future-council-on-responsive-financial-systems-three-ways-to-accelerate-a-digital-led-recovery),[[英文版]](https://www.weforum.org/whitepapers/global-future-council-on-responsive-financial-systems-three-ways-to-accelerate-a-digital-led-recovery),[[WEF官方报道中文版本]]( https://cn.weforum.org/agenda/2021/11/jia-su-shu-zi-yin-ling-jing-ji-fu-su-de-san-zhong-fang-shi/), [[WEF官方报道英文版本]](https://www.weforum.org/agenda/2021/11/3-ways-to-accelerate-a-digital-led-recovery/)
--  2022年3月，作为主要负责人和作者与卓佳联合发表[《中国外资私募证券基金行业研究白皮书》](https://www.pbcsf.tsinghua.edu.cn/info/1154/2393.htm)
--  2023年5月，作为主要负责人和作者与蚂蚁财富联合发表[《2023年基民理财行为及投教偏好调研报告》](http://xyfintech.pbcsf.tsinghua.edu.cn/info/1008/1134.htm)
+# 学术服务
+### 期刊审稿人
+Quantitative Finance, Finance Research Letters, Information Processing & Management, Neural Networks, IEEE Transactions on Neural Networks and Learning Systems, Applied Intelligence, Journal of Physics Communications
 
-### 清华大学五道口金融学院研究报告
-- 【2023年第2期】[中国个人投资者线上理财投资绩效归因研究](http://thuifr.pbcsf.tsinghua.edu.cn/pdf/jinsanjiaoyanjiubaogao.pdf)  （`吴辉航` [张晓燕](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm) 谭琳 王艺熹 殷子涵）
-- 【2023年第1期】[金融科技服务对投资者收益行为影响分析](http://thuifr.pbcsf.tsinghua.edu.cn/info/1011/2404.htm)（ 葛慧敏 `吴辉航` [张晓燕](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm) 谭琳）
-- 【2022年第1期】[数字经济时代下中国财富管理行业研究:互联网技术的经济影响](http://thuifr.pbcsf.tsinghua.edu.cn/info/1013/2160.htm)  （[张晓燕](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm) `吴辉航` 葛慧敏）
-- 【2020年第12期】[机器学习视角下中国股票资产收益率可预测性研究 ](http://xyfintech.pbcsf.tsinghua.edu.cn/info/1008/1007.htm) （`吴辉航` 魏行空 [张晓燕](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm)）
-- 【2020年第2期】[主题指数——中国 A 股区块链主题指数](http://xyfintech.pbcsf.tsinghua.edu.cn/info/1008/1008.htm) （`吴辉航` 寻朔 柯岩 葛慧敏 张伟琛 饶骁）
-
-
-<span class='anchor' id='-ref'></span>
-
-# 💻 期刊匿名审稿人任职
-- *Management Science*
-- *Journal of Financial Data Science*
-- *Journal of Business & Economic Statistics*  
-- *Journal of Empirical Finance*  
-- 《财经研究》
+### 会议审稿人
+IJCAI 2025, IJCNN 2025, AAAI 2025, ICLR 2025, AISTATS 2025, IUI 2025, ICWSM 2025, IEEE VR 2025, NeurIPS 2023.
