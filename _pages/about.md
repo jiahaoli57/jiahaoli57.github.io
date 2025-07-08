@@ -16,7 +16,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='-about-me'></span>
 # 个人简介
 
 <div style="text-align:justify"> 本人博士毕业于广东工业大学管理学院，是学院自成立以来首位本科直博生，目前在清华大学五道口金融学院从事博士后研究。在攻读博士学位期间，曾多次获得国家博士研究生国家奖学金、校优秀毕业生、校学业一等奖学金等荣誉，并两次获得校年度“十大攀撑学子”（研究生）提名以及多次入选校研究生拔尖创新型人才培养计划。</div>
@@ -34,12 +34,12 @@ redirect_from:
 
 <div style="text-align:justify; color:red; margin-top: 1.3em"> ⚡ 此外，我一直在寻找对科研充满热情、自驱力强的学生。如果你对 <a href="https://en.wikipedia.org/wiki/Portfolio_optimization">投资组合优化</a> 方向有浓厚兴趣，欢迎与我联系。我们可以一起合作，将有趣的想法变为高质量的学术成果。</div>
 
-<span class='anchor' id='-gzjl'></span>
+<span class='anchor' id='work'></span>
 # 工作经历
 
 - *2025.07 至今*，<a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学 五道口金融学院，博士后研究员（合作导师：[廖理](https://www.pbcsf.tsinghua.edu.cn/info/1018/1026.htm) 教授）
 
-<span class='anchor' id='-jybj'></span>
+<span class='anchor' id='-education'></span>
 
 # 教育背景
 - *2020.09 – 2025.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/dc6d43cd5236455ba57685db6a90384e.jpeg" width="23pt"></a> 广东工业大学 管理学院，管理科学与工程专业，直博（指导老师：[张永](https://glxy.gdut.edu.cn/info/1292/28915_10.htm) 教授）
@@ -48,7 +48,7 @@ redirect_from:
 
 - *2024.03 – 2024.08*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/cityu.png" width="23pt"></a> 香港城市大学 商学院，经济与金融系，访问（指导老师：[王军波](https://www.cb.cityu.edu.hk/staff/jwang2/) 教授）
 
-<span class='anchor' id='-workingpaper'></span>
+<span class='anchor' id='-working-paper'></span>
 
 <!--
 # 📝 工作论文
@@ -78,7 +78,7 @@ redirect_from:
 
  -->
 
-<span class='anchor' id='-publication'></span>
+<span class='anchor' id='paper'></span>
 
 # 学术论文
 
