@@ -51,7 +51,7 @@ redirect_from:
 <span class='anchor' id='-working-paper'></span>
 
 
-📝 工作论文
+# 工作论文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sapp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
