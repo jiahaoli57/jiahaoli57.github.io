@@ -50,20 +50,18 @@ redirect_from:
 
 <span class='anchor' id='-working-paper'></span>
 
-<!--
-# 📝 工作论文
+
+📝 工作论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SSRN</div><img src='images/paper_llm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sapp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- Lin Tan, `Huihang Wu`, [Xiaoyan Zhang](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm).Large Language Models and Return Prediction in China. 202410.[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4712248)
-	- [ABFER-JFDS Annual Conference on AI and FinTech 2024](https://business.sustech.edu.cn/web/aicm/index.php) (present in Aug 2024)
-	- [Summer Institute in Finance (SIF) Annual Conference 2024](https://www.cafr-sif.com/conference.php) (present in Jul 2024)  
-	- [China Fintech Research Conference (CFTRC) 2024](https://conference.51xueshuo.com/#/index/M1711634265915396096) (present in Apr 2024)
-	- Seminar Series at Sun Yat-Sen University (present in Aug 2024)
-	- Tsinghua University and Summer Institute in Digital Finance (SIDF) 2024
+- <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Liangwei Chen, Xiaoteng Zheng, and Xingyu Yang. 
+<a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">SAPP: Sparse attention Transformers for pattern recognition in portfolio management.</a> </div>
+	- 2024年12月报告于《第二届粤港澳大湾区数字金融论坛》
 </div>
 </div>
 
+<!--
 - Huimin Ge, Lin Tan, `Huihang Wu`, [Xiaoyan Zhang](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm). How Can Robot Investment Assistant Help: Collecting Information or Providing Advice? Evidence from China. 202309.[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4146837)
 	- 2022 CICF (present in Jul 2022)
 	- [首届全国统计与数据科学联合会议](https://jcsds2023.pku.edu.cn/hyjj/243c942778ab4c2ca4710e3b9fa364f9.htm) (present in Jul 2023)
