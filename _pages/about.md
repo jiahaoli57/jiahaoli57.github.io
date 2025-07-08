@@ -52,12 +52,13 @@ redirect_from:
 
 
 # 工作论文
----
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sapp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Liangwei Chen, Xiaoteng Zheng, and Xingyu Yang. 
 <a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">SAPP: Sparse attention Transformers for pattern recognition in portfolio management.</a> </div>
-	- 2024年12月报告于《第二届粤港澳大湾区数字金融论坛》
+	- *2024年12月* 报告于《第二届粤港澳大湾区数字金融论坛》
+	- *2025年3月* 报告于安徽大学
 </div>
 </div>
 
