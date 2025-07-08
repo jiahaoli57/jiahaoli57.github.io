@@ -46,7 +46,7 @@ redirect_from:
 
 - *2016.09 – 2020.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/dc6d43cd5236455ba57685db6a90384e.jpeg" width="23pt"></a> 广东工业大学 管理学院，管理科学专业，本科（指导老师：[杨兴雨](https://glxy.gdut.edu.cn/info/1292/28914_5.htm) 教授）
 
-- *2014.03 – 2024.08*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/cityu.png" width="23pt"></a> 香港城市大学 商学院，经济与金融系，访问（指导老师：[王军波](https://www.cb.cityu.edu.hk/staff/jwang2/) 教授）
+- *2024.03 – 2024.08*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/cityu.png" width="23pt"></a> 香港城市大学 商学院，经济与金融系，访问（指导老师：[王军波](https://www.cb.cityu.edu.hk/staff/jwang2/) 教授）
 
 <span class='anchor' id='-workingpaper'></span>
 
