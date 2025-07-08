@@ -34,7 +34,7 @@ redirect_from:
 
 <div style="text-align:justify; color:red; margin-top: 1.3em"> ⚡ 此外，我一直在寻找对科研充满热情、自驱力强的学生。如果你对 <a href="https://en.wikipedia.org/wiki/Portfolio_optimization">投资组合优化</a> 方向有浓厚兴趣，欢迎与我联系。我们可以一起合作，将有趣的想法变为高质量的学术成果。</div>
 
-<span class='anchor' id='work'></span>
+<span class='anchor' id='-work'></span>
 # 工作经历
 
 - *2025.07 至今*，<a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学 五道口金融学院，博士后研究员（合作导师：[廖理](https://www.pbcsf.tsinghua.edu.cn/info/1018/1026.htm) 教授）
@@ -78,7 +78,7 @@ redirect_from:
 
  -->
 
-<span class='anchor' id='paper'></span>
+<span class='anchor' id='-paper'></span>
 
 # 学术论文
 
@@ -165,7 +165,7 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 
 
 <p> <strong>&dagger;</strong> 通讯作者</p>
-<span class='anchor' id='-cbzz'></span>
+<span class='anchor' id='-award'></span>
 
 # 获奖情况
 - 广东工业大学优秀毕业生
@@ -181,7 +181,7 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 - 2020-2021学年度硕士研究生二等学业奖学金
 - 2020年度博士研究生新生奖学金
 
-<span class='anchor' id='-nonac'></span>
+<span class='anchor' id='-service'></span>
 
 # 学术服务
 ### 期刊审稿人
