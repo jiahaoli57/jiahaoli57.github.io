@@ -12,7 +12,7 @@ repository               : "jiahaoli57/jiahaoli57.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "G-9BVSS0QW8P" # 这个G-9BVSS0QW8P是我的google_analytics_id，兄弟们如果fork这个库，记得要改掉这个。get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
