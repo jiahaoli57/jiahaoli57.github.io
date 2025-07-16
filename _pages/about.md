@@ -184,7 +184,7 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 
 # 学术服务
 ### 期刊审稿人
-*Quantitative Finance、Finance Research Letters、Information Processing & Management、Neural Networks、IEEE Transactions on Neural Networks and Learning Systems、International Journal of Machine Learning and Cybernetics、Applied Intelligence、Discover Artificial Intelligence、Journal of Physics Communications*
+*Quantitative Finance、Finance Research Letters、Information Processing & Management、Neural Networks、IEEE Transactions on Neural Networks and Learning Systems、International Journal of Computational Intelligence Systems、International Journal of Machine Learning and Cybernetics、Applied Intelligence、Discover Artificial Intelligence、Journal of Physics Communications*
 
 ### 会议审稿人
 *IJCAI 2025、IJCNN 2025、AAAI 2025、ICLR 2025、AISTATS 2025、IUI 2025、ICWSM 2025、IEEE VR 2025、NeurIPS 2023*
