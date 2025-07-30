@@ -37,16 +37,18 @@ redirect_from:
 <span class='anchor' id='-work'></span>
 # 工作经历
 
-- *2025.07 至今*，<a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学 五道口金融学院，博士后研究员（合作导师：[廖理](https://www.pbcsf.tsinghua.edu.cn/info/1018/1026.htm) 教授）
+- *2025.07 至今*，<a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学 五道口金融学院，博士后研究员（导师：[廖理](https://www.pbcsf.tsinghua.edu.cn/info/1018/1026.htm) 教授）
+
+- *2025.07 至今*，<a href="https://angelcoinvest.com/index"><img class="svg" src="/images/angel-group-logo.png" width="23pt"></a> 上海天使会，兼职研究员
 
 <span class='anchor' id='-education'></span>
 
 # 教育背景
-- *2020.09 – 2025.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/dc6d43cd5236455ba57685db6a90384e.jpeg" width="23pt"></a> 广东工业大学 管理学院，管理科学与工程专业，直博（指导老师：[张永](https://glxy.gdut.edu.cn/info/1292/28915_10.htm) 教授）
+- *2020.09 – 2025.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/dc6d43cd5236455ba57685db6a90384e.jpeg" width="23pt"></a> 广东工业大学 管理学院，管理科学与工程专业，直博（导师：[张永](https://glxy.gdut.edu.cn/info/1292/28915_10.htm) 教授）
 
-- *2016.09 – 2020.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/dc6d43cd5236455ba57685db6a90384e.jpeg" width="23pt"></a> 广东工业大学 管理学院，管理科学专业，本科（指导老师：[杨兴雨](https://glxy.gdut.edu.cn/info/1292/28914_5.htm) 教授）
+- *2016.09 – 2020.07*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/dc6d43cd5236455ba57685db6a90384e.jpeg" width="23pt"></a> 广东工业大学 管理学院，管理科学专业，本科（导师：[杨兴雨](https://glxy.gdut.edu.cn/info/1292/28914_5.htm) 教授）
 
-- *2024.03 – 2024.08*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/cityu.png" width="23pt"></a> 香港城市大学 商学院，经济与金融系，访问（指导老师：[王军波](https://www.cb.cityu.edu.hk/staff/jwang2/) 教授）
+- *2024.03 – 2024.08*, <a href="https://www.gdut.edu.cn/"><img class="svg" src="/images/cityu.png" width="23pt"></a> 香港城市大学 商学院，经济与金融系，访问（导师：[王军波](https://www.cb.cityu.edu.hk/staff/jwang2/) 教授）
 
 <span class='anchor' id='-working-paper'></span>
 
@@ -187,4 +189,4 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 *Quantitative Finance、Finance Research Letters、Information Processing & Management、Neural Networks、IEEE Transactions on Neural Networks and Learning Systems、International Journal of Computational Intelligence Systems、International Journal of Machine Learning and Cybernetics、Applied Intelligence、Discover Artificial Intelligence、Journal of Physics Communications*
 
 ### 会议审稿人
-*IJCAI 2025、IJCNN 2025、AAAI 2025、ICLR 2025、AISTATS 2025、IUI 2025、ICWSM 2025、IEEE VR 2025、NeurIPS 2023*
+*SIGKDD 2026、IJCAI 2025、IJCNN 2025、AAAI 2025、ICLR 2025、AISTATS 2025、IUI 2025、ICWSM 2025、IEEE VR 2025、NeurIPS 2023*
