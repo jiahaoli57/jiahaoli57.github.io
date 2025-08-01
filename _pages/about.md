@@ -129,7 +129,7 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
  
 - <span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Hong Lin.
 <a href="https://www.tandfonline.com/doi/full/10.1080/01605682.2022.2122737">Aggregating exponential gradient expert advice for online portfolio selection under transaction costs.</a>
-<i> Journal of the Operational Research Society</i>, 2023, 74(8): 1940-1953. (SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7)
+<i> Journal of the Operational Research Society</i>, 2023, 74(8): 1940-1953. (SCI/SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7)
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+exponential+gradient+expert+advice+for+online+portfolio+selection+under+transaction+costs&btnG=">cite</a>] 
 [<a href="https://github.com/jiahaoli57/CAEGc">code</a>] </span>
 
