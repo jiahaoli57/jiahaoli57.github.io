@@ -40,7 +40,7 @@ redirect_from:
 - *2025.07 至今*，<a href="https://www.pbcsf.tsinghua.edu.cn/"><img class="svg" src="/images/PBCSF_LOGO.jpg" width="23pt"></a> 清华大学 五道口金融学院，博士后研究员（导师：[廖理](https://www.pbcsf.tsinghua.edu.cn/info/1018/1026.htm) 教授）
 
 - *2025.07 至今*，<a href="https://angelcoinvest.com/index"><img class="svg" src="/images/sift.jpg" width="23pt"></a> 上海科创金融研究院，兼职研究员
-- 
+
 - *2025.07 至今*，<a href="https://angelcoinvest.com/index"><img class="svg" src="/images/angel-group-logo.png" width="23pt"></a> 上海天使会，兼职研究员
 
 <span class='anchor' id='-education'></span>
