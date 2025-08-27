@@ -100,7 +100,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 - <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. 
 <a href="https://www.sciencedirect.com/science/article/pii/S030645732200348X">Online portfolio management via deep reinforcement learning with high-frequency data.</a>
-<i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=7.4)
+<i> Information Processing & Management</i>, 2023, 60(3): 103247. (SCI/SSCI Q1, CCF-B, ABS/AJG-2, ABDC-B, FMS-B, IF=6.9)
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Online+portfolio+management+via+deep+reinforcement+learning+with+high-frequency+data&btnG=">cite</a>]
 [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </div>
 </div>
@@ -110,7 +110,7 @@ redirect_from:
 - <span style="text-align:justify">
 Xingyu Yang, Xiaoteng Zheng, <strong><u>Jiahao Li</u><sup>&dagger;</sup></strong>, and Qingmei Huang.
 <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2368267">Aggregating closing position experts for online portfolio selection.</a>
-<i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.2)
+<i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.3)
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+closing+position+experts+for+online+portfolio+selection&btnG=">cite</a>] 
 </span>
 
@@ -124,7 +124,7 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
  
 - <span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Jianliang Zhang.
 <a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">Competitive online strategy based on improved exponential gradient expert and aggregating method.</a>
-<i> Computational Economics</i>, 2024, 64(2): 789-814. (SCI/SSCI Q2, ABDC-B, IF=1.9)
+<i> Computational Economics</i>, 2024, 64(2): 789-814. (SCI/SSCI Q2, ABDC-B, IF=2.2)
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Competitive+Online+Strategy+Based+on+Improved+Exponential+Gradient+Expert+and+Aggregating+Method&btnG=">cite</a>] 
 [<a href="https://github.com/jiahaoli57/AIEG">code</a>] </span>
 
@@ -138,13 +138,17 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 
 - <span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Xiaohui Wang.
 <a href="https://link.springer.com/article/10.1007/s10878-022-00886-7">Lease or financial lease? Deterministic strategies for on-line financial lease problem with the second-hand transaction.</a>
-<i> Journal of Combinatorial Optimization</i>, 2022, 44(2): 1248-1264. (SCI Q3, ABS/AJG-2, IF=0.9) <br>
+<i> Journal of Combinatorial Optimization</i>, 2022, 44(2): 1248-1264. (SCI Q3, ABS/AJG-2, IF=1.1) <br>
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Lease+or+financial+lease%3F+Deterministic+strategies+for+on-line+financial+lease+problem+with+the+second-hand+transaction.&btnG=">cite</a>] 
 [<a href="https://github.com/jiahaoli57/Lease-or-financial-lease">code</a>]  </span>
 
 
 
 ### 中文发表
+
+- <span style="text-align:justify"> 张永, 温嘉林, 郑萧腾, 陈亮威, <strong><u>黎嘉豪</u></strong>.
+	<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml">考虑行业指数的深度强化学习投资组合策略研究.</a>
+      <i> 系统工程学报</i>, 2025, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T1) </span>   
 
 - <span style="text-align:justify"> 张永, 莫婷婷, <strong><u>黎嘉豪</u></strong>, 杨兴雨.
 	<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml">时间异质性视角下移动窗口数据驱动的竞争性在线投资组合策略.</a>
@@ -192,5 +196,6 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 
 ### 会议审稿人
 *SIGKDD 2026、IJCAI 2025、IJCNN 2025、AAAI 2025、ICLR 2025、AISTATS 2025、IUI 2025、ICWSM 2025、IEEE VR 2025、NeurIPS 2023*
+
 
 
