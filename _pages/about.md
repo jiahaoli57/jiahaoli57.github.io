@@ -195,7 +195,8 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 *Quantitative Finance、Decision Support Systems、Finance Research Letters、Information Processing & Management、Neural Networks、IEEE Transactions on Neural Networks and Learning Systems、International Journal of Computational Intelligence Systems、International Journal of Machine Learning and Cybernetics、Applied Intelligence*
 
 ### 会议审稿人
-*SIGKDD 2026、IJCAI 2025、IJCNN 2025、AAAI 2025、ICLR 2025、AISTATS 2025、IUI 2025、ICWSM 2025、IEEE VR 2025、NeurIPS 2023*
+*SIGKDD 2026、AISTATS 2026、IJCAI 2025、IJCNN 2025、AAAI 2025、ICLR 2025、AISTATS 2025、IUI 2025、ICWSM 2025、IEEE VR 2025、NeurIPS 2023*
+
 
 
 
