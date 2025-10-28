@@ -57,14 +57,24 @@ redirect_from:
 
 # 工作论文
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/FinOL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Junbo Wang, Yue Liu, Liangwei Chen, and Weilong Liu. 
+<a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">FinOL: Towards Open Benchmarking for Data-Driven Online Portfolio Selection.</a> </div>
+	- *2025.11* 报告于“2025中国科技金融学术年会”
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sapp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Liangwei Chen, Xiaoteng Zheng, and Xingyu Yang. 
 <a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">SAPP: Sparse attention Transformers for pattern recognition in portfolio management.</a> </div>
-	- *2024.12* 报告于“第二届粤港澳大湾区数字金融论坛”
-	- *2025.03* 报告于安徽大学
+	- *2025.11* 报告于“第二届粤港澳大湾区数字金融论坛”
 </div>
 </div>
+
 
 <!--
 - Huimin Ge, Lin Tan, `Huihang Wu`, [Xiaoyan Zhang](https://www.pbcsf.tsinghua.edu.cn/info/1018/1013.htm). How Can Robot Investment Assistant Help: Collecting Information or Providing Advice? Evidence from China. 202309.[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4146837)
@@ -196,6 +206,7 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 
 ### 会议审稿人
 *SIGKDD 2026、AISTATS 2026、IJCAI 2025、IJCNN 2025、AAAI 2025、ICLR 2025、AISTATS 2025、IUI 2025、ICWSM 2025、IEEE VR 2025、NeurIPS 2023*
+
 
 
 
