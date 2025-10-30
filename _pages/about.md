@@ -62,7 +62,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/FinOL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Junbo Wang, Yue Liu, Liangwei Chen, and Weilong Liu. 
-<a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">FinOL: Towards Open Benchmarking for Data-Driven Online Portfolio Selection.</a> </div>
+<a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">FinOL: Towards Open Benchmarking for Data-Driven Online Portfolio Selection.</a> 
+[<a href="https://github.com/jiahaoli57/FinOL">code</a>]</div>
 	- *2025.11* 报告于“2025中国科技金融学术年会”
 </div>
 </div>
@@ -208,6 +209,7 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 
 ### 会议审稿人
 *SIGKDD 2026、AISTATS 2026、IJCAI 2025、IJCNN 2025、AAAI 2025、ICLR 2025、AISTATS 2025、IUI 2025、ICWSM 2025、IEEE VR 2025、NeurIPS 2023*
+
 
 
 
