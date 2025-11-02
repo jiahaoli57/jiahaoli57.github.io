@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "黎嘉豪" 
-  avatar           : "images/537e2bfe0764ceb5e872e1097c7ec5f.jpg"
+  avatar           : "images/me.jpg"
   bio              : "AI in Finance"
   location         : "上海/广州/北京"
   employer         : "清华大学五道口 金融学院"
@@ -163,3 +163,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
