@@ -22,13 +22,13 @@ redirect_from:
 <div style="text-align:justify"> 本人博士毕业于广东工业大学管理学院，是学院自成立以来首位本科直博生，目前在清华大学五道口金融学院从事博士后研究。在攻读博士学位期间，曾多次获得国家博士研究生国家奖学金、校优秀毕业生、校学业一等奖学金等荣誉，并两次获得校年度“十大攀撑学子”（研究生）提名以及多次入选校研究生拔尖创新型人才培养计划。</div>
 <div style="height: 0.7em;"></div>
 
-<div style="text-align:justify"> 我的研究兴趣主要集中在人工智能和机器学习在金融领域的一些交叉应用，在过去几年，本人在 <i>European Journal of Operational Research（ABS-4）、Journal of the Operational Research Society（ABS-3）、Information Processing & Management（中科院一区TOP）、Journal of Combinatorial Optimization、Computational Economics、计量经济学报、管理工程学报</i> 等高水平期刊上发表多篇学术论文。同时，担任 <i>IEEE Transactions on Neural Networks and Learning Systems、Quantitative Finance、Finance Research Letters、Neural Networks、Information Processing & Management</i> 等顶尖金融/计算机学术期刊的审稿人。此外，本人曾在纽约大学 <a href="https://engineering.nyu.edu/faculty/amine-mohamed-aboussalah">Amine M. Aboussalah</a> 教授的实验室进行过很长一段时间的合作研究，并曾有幸在 <a href="https://www.cb.cityu.edu.hk/staff/jwang2/">王军波</a> 教授的指导下，于香港城市大学商学院经济与金融系进行过为期半年的访问。</div>
+<div style="text-align:justify"> 我的研究兴趣主要集中在人工智能和机器学习在金融领域的一些交叉应用，在过去几年，本人在 <i>European Journal of Operational Research（ABS-4）、Journal of the Operational Research Society（ABS-3）、Pattern Recognition（中科院一区TOP）、Information Processing & Management（中科院一区TOP）、Journal of Combinatorial Optimization、Computational Economics、计量经济学报、管理工程学报</i> 等高水平期刊上发表多篇学术论文。同时，担任 <i>IEEE Transactions on Neural Networks and Learning Systems、Quantitative Finance、Finance Research Letters、Neural Networks、Information Processing & Management</i> 等顶尖金融/计算机学术期刊的审稿人。此外，本人曾在纽约大学 <a href="https://engineering.nyu.edu/faculty/amine-mohamed-aboussalah">Amine M. Aboussalah</a> 教授的实验室进行过很长一段时间的合作研究，并曾有幸在 <a href="https://www.cb.cityu.edu.hk/staff/jwang2/">王军波</a> 教授的指导下，于香港城市大学商学院经济与金融系进行过为期半年的访问。</div>
 <div style="height: 0.7em;"></div>
 
 <div style="text-align:justify"> 在学术之外，我研究如何通过结合数据驱动的方法解决一些有挑战性的现实问题（如投资组合优化、统计套利、量化交易等）。目前，我自营数百万的资金，并通过量化的方式在某一报价驱动的交易市场实现了月化8%至10%的无风险收益。交易收益将在不久后可自动化记录时于此同步展示。</div>
 <div style="height: 0.7em;"></div>
 
-<div style="text-align:justify"> 本人也是微信小程序 <a href="https://mp.weixin.qq.com/s?__biz=Mzk0NTcyMTQyMA==&mid=2247483721&idx=1&sn=ffefeb9edc2104c06aa1fe4770ca3b01&chksm=c310586af467d17c611d0b058cd281ccd868db109c60152da94ae0e30ba7aedcb40dc821cfe5&token=1133777849&lang=zh_CN#rd">ABS分区表</a> 的独立开发者，该小程序已累计惠及全国超 40000 名经管研究生、导师与学者。</div>
+<div style="text-align:justify"> 本人也是微信小程序 <a href="https://mp.weixin.qq.com/s?__biz=Mzk0NTcyMTQyMA==&mid=2247483721&idx=1&sn=ffefeb9edc2104c06aa1fe4770ca3b01&chksm=c310586af467d17c611d0b058cd281ccd868db109c60152da94ae0e30ba7aedcb40dc821cfe5&token=1133777849&lang=zh_CN#rd">ABS分区表</a> 的独立开发者，该小程序已累计惠及全国超 45000 名经管研究生、导师与学者。</div>
 <div style="height: 0.7em;"></div>
 
 
@@ -59,16 +59,16 @@ redirect_from:
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/FinOL.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/FinOL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Junbo Wang, Yue Liu, Liangwei Chen, and Weilong Liu. 
 <a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">FinOL: Towards Open Benchmarking for Data-Driven Online Portfolio Selection.</a> 
 [<a href="https://github.com/jiahaoli57/FinOL">code</a>]</div>
 	- *2025.11* 报告于“2025中国科技金融学术年会”
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sapp.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/sapp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, Liangwei Chen, Xiaoteng Zheng, and Xingyu Yang. 
 <a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">SAPP: Sparse attention Transformers for pattern recognition in portfolio management.</a> 
@@ -76,7 +76,7 @@ redirect_from:
 	- *2024.12* 报告于“第二届粤港澳大湾区数字金融论坛”
 	- *2025.03* 报告于安徽大学
 </div>
-</div>
+</div> -->
 
 
 <!--
@@ -100,7 +100,7 @@ redirect_from:
 
 ### 英文发表
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR</div><img src='images/egdmd.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EJOR</div><img src='images/egdmd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - <div style="text-align:justify"> <strong><u>Jiahao Li</u></strong>, Yong Zhang, and Xiaoteng Zheng. 
 <a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">Dynamic mode decomposition for online portfolio selection task.</a>
@@ -117,41 +117,68 @@ redirect_from:
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Online+portfolio+management+via+deep+reinforcement+learning+with+high-frequency+data&btnG=">cite</a>]
 [<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>] </div>
 </div>
-</div>
+</div> -->
+
+- <span style="text-align:justify">
+<strong><u>Jiahao Li</u></strong>, Yong Zhang, Liangwei Chen, Xiaoteng Zheng, and Xingyu Yang.
+<a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">SAPP: Sparse attention Transformers for pattern recognition in portfolio management.</a>
+<i> Pattern Recognition</i>, 2026, Accept.
+[<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SAPP%3A+Sparse+attention+Transformers+for+pattern+recognition+in+portfolio+management&btnG=">cite</a>]
+[<a href="https://github.com/jiahaoli57/SAPP">code</a>]
+</span>
 
 	
 - <span style="text-align:justify">
+<strong><u>Jiahao Li</u></strong>, Yong Zhang, and Xiaoteng Zheng.
+<a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">Dynamic mode decomposition for online portfolio selection task.</a>
+<i> European Journal of Operational Research</i>, 2026, 328(1): 349-365.
+[<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Dynamic+mode+decomposition+for+online+portfolio+selection+task&btnG=">cite</a>]
+</span>
+
+
+
+- <span style="text-align:justify">
 Xingyu Yang, Xiaoteng Zheng, <strong><u>Jiahao Li</u><sup>&dagger;</sup></strong>, and Qingmei Huang.
 <a href="https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2368267">Aggregating closing position experts for online portfolio selection.</a>
-<i> Applied Economics Letters</i>, 2024. (SSCI Q3, ABDC-B, IF=1.3)
-[<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+closing+position+experts+for+online+portfolio+selection&btnG=">cite</a>] 
+<i> Applied Economics Letters</i>, 2026, 33(3): 366-377.
+[<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+closing+position+experts+for+online+portfolio+selection&btnG=">cite</a>]
 </span>
+
+	
+- <span style="text-align:justify">
+<strong><u>Jiahao Li</u></strong>, Yong Zhang, Xingyu Yang, and Liangwei Chen. 
+<a href="https://www.sciencedirect.com/science/article/pii/S030645732200348X">Online portfolio management via deep reinforcement learning with high-frequency data.</a>
+<i> Information Processing & Management</i>, 2023, 60(3): 103247.
+[<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Online+portfolio+management+via+deep+reinforcement+learning+with+high-frequency+data&btnG=">cite</a>]
+[<a href="https://github.com/jiahaoli57/LSRE-CAAN">code</a>]
+</span>
+
 
 - <span style="text-align:justify">
 Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 <a href="https://www.tandfonline.com/doi/full/10.1080/01605682.2023.2295975">Combined peak price tracking strategies for online portfolio selection based on the meta-algorithm.</a>
-<i> Journal of the Operational Research Society</i>, 2024, 75(10): 2032-2051. (SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7)
+<i> Journal of the Operational Research Society</i>, 2024, 75(10): 2032-2051.
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+closing+position+experts+for+online+portfolio+selection&btnG=">cite</a>] 
 </span>
 
  
 - <span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Jianliang Zhang.
 <a href="https://link.springer.com/article/10.1007/s10614-023-10430-2">Competitive online strategy based on improved exponential gradient expert and aggregating method.</a>
-<i> Computational Economics</i>, 2024, 64(2): 789-814. (SCI/SSCI Q2, ABDC-B, IF=2.2)
+<i> Computational Economics</i>, 2024, 64(2): 789-814.
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Competitive+Online+Strategy+Based+on+Improved+Exponential+Gradient+Expert+and+Aggregating+Method&btnG=">cite</a>] 
 [<a href="https://github.com/jiahaoli57/AIEG">code</a>] </span>
 
  
 - <span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Hong Lin.
 <a href="https://www.tandfonline.com/doi/full/10.1080/01605682.2022.2122737">Aggregating exponential gradient expert advice for online portfolio selection under transaction costs.</a>
-<i> Journal of the Operational Research Society</i>, 2023, 74(8): 1940-1953. (SCI/SSCI Q2, ABS/AJG-3, ABDC-A, FMS-B, IF=2.7)
+<i> Journal of the Operational Research Society</i>, 2023, 74(8): 1940-1953.
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Aggregating+exponential+gradient+expert+advice+for+online+portfolio+selection+under+transaction+costs&btnG=">cite</a>] 
 [<a href="https://github.com/jiahaoli57/CAEGc">code</a>] </span>
 
 
 - <span style="text-align:justify"> Yong Zhang, <strong><u>Jiahao Li</u></strong>, Xingyu Yang, and Xiaohui Wang.
 <a href="https://link.springer.com/article/10.1007/s10878-022-00886-7">Lease or financial lease? Deterministic strategies for on-line financial lease problem with the second-hand transaction.</a>
-<i> Journal of Combinatorial Optimization</i>, 2022, 44(2): 1248-1264. (SCI Q3, ABS/AJG-2, IF=1.1) <br>
+<i> Journal of Combinatorial Optimization</i>, 2022, 44(2): 1248-1264.<br>
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Lease+or+financial+lease%3F+Deterministic+strategies+for+on-line+financial+lease+problem+with+the+second-hand+transaction.&btnG=">cite</a>] 
 [<a href="https://github.com/jiahaoli57/Lease-or-financial-lease">code</a>]  </span>
 
@@ -159,6 +186,10 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 
 ### 中文发表
 
+- <span style="text-align:justify"> 刘悦, 张永, <strong><u>黎嘉豪</u></strong>, 王晓辉. 
+	<a href="https://xtglxb.sjtu.edu.cn/cN/10.3969/j.issn.2097-4558.2026.01.017">端到端框架下基于LSTM和在线修正的适应性投资组合策略.</a>
+      <i> 系统管理学报</i>, 2026, 35(1): 233-246. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) </span>
+	  
 - <span style="text-align:justify"> 张永, 温嘉林, 郑萧腾, 陈亮威, <strong><u>黎嘉豪</u></strong>.
 	<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml">考虑行业指数的深度强化学习投资组合策略研究.</a>
       <i> 系统工程学报</i>, 2025, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T1) </span>   
@@ -170,10 +201,6 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
 - <span style="text-align:justify"> 张永, <strong><u>黎嘉豪</u></strong>, 刘悦, 张卫国. 
 	<a href="https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2024-0162">基于Transformer和关键特征的可解释端到端投资组合策略.</a>
       <i> 计量经济学报</i>, 2024, 4(5): 1381-1407. (CSSCI, FMS-T1) </span>
-	  
-- <span style="text-align:justify"> 张永, 刘悦, <strong><u>黎嘉豪</u></strong>, 王晓辉. 
-	<a href="https://xtglxb.sjtu.edu.cn/CN/2097-4558/home.shtml">端到端框架下基于LSTM和在线修正的适应性投资组合策略.</a>
-      <i> 系统管理学报</i>, 2024, 已录用. (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T2) </span>
 	
 - <span style="text-align:justify"> 杨兴雨, 张健良, <strong><u>黎嘉豪</u></strong>, 张永. 
 	<a href="http://www.jorms.net/CN/volumn/current.shtml">基于集成专家意见的反转型在线投资组合策略研究.</a>
