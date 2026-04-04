@@ -121,7 +121,7 @@ redirect_from:
 
 - <span style="text-align:justify">
 <strong><u>Jiahao Li</u></strong>, Yong Zhang, Liangwei Chen, Xiaoteng Zheng, and Xingyu Yang.
-<a href="https://www.sciencedirect.com/science/article/pii/S0377221725003509">SAPP: Sparse attention Transformers for pattern recognition in portfolio management.</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0031320326006254?via=ihub">SAPP: Sparse attention Transformers for pattern recognition in portfolio management.</a>
 <i> Pattern Recognition</i>, 2026, Accept.
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SAPP%3A+Sparse+attention+Transformers+for+pattern+recognition+in+portfolio+management&btnG=">cite</a>]
 [<a href="https://github.com/jiahaoli57/SAPP">code</a>]
