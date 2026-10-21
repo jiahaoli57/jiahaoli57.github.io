@@ -55,6 +55,11 @@ redirect_from:
 <span class='anchor' id='-working-paper'></span>
 
 
+# 科研项目
+
+- 中国博士后科学基金第79批面上资助，*主持*
+- 2026年度教育部人文社会科学研究青年基金项目，*主持*
+
 # 工作论文
 
 
