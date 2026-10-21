@@ -60,8 +60,9 @@ redirect_from:
 - 中国博士后科学基金第79批面上资助，*主持*
 - 2026年度教育部人文社会科学研究青年基金项目，*主持*
 
+<!-- 
 # 工作论文
-
+-->
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/FinOL.png' alt="sym" width="100%"></div></div>
