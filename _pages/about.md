@@ -127,7 +127,7 @@ redirect_from:
 
 
 - <span style="text-align:justify">
-Guangyan Gan<sup>&#42;</sup>, <strong><u>Jiahao Li</u><sup>&ast;</sup></strong>, Jiashun Wang, and Lin William Cong.
+Guangyan Gan<sup>&sect;</sup>, <strong><u>Jiahao Li</u><sup>&sect;</sup></strong>, Jiashun Wang, and Lin William Cong.
 <a href="https://arxiv.org/abs/2611.12269v1">Agent4Crypto: A Dual-Reflective and Market-Feedback-Aligned LLM-Based Multi-Agent System for Cryptocurrency Trading.</a>
 <i> arXiv preprint</i>, 2026, arXiv:2611.12269.
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Agent4Crypto%3A+A+Dual-Reflective+and+Market-Feedback-Aligned+LLM-Based+Multi-Agent+System+for+Cryptocurrency+Trading&btnG=">cite</a>]
@@ -226,7 +226,7 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
       <i> 管理工程学报</i>, 2023, 37(5). (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T1) </span>
 
 
-<p> <strong>&ast;</strong> 共同第一作者</p>
+<p> <strong>&sect;</strong> 共同第一作者</p>
 <p> <strong>&dagger;</strong> 通讯作者</p>
 <span class='anchor' id='-award'></span>
 
