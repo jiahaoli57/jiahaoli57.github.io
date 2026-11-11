@@ -125,10 +125,18 @@ redirect_from:
 </div>
 </div> -->
 
+
+- <span style="text-align:justify">
+Guangyan Gan<sup>&ast;</sup>, <strong><u>Jiahao Li</u><sup>&ast;</sup></strong>, Jiashun Wang, and Lin William Cong.
+<a href="https://arxiv.org/abs/2611.12269v1">Agent4Crypto: A Dual-Reflective and Market-Feedback-Aligned LLM-Based Multi-Agent System for Cryptocurrency Trading.</a>
+<i> Pattern Recognition</i>, 2026, Accept.
+[<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Agent4Crypto%3A+A+Dual-Reflective+and+Market-Feedback-Aligned+LLM-Based+Multi-Agent+System+for+Cryptocurrency+Trading&btnG=">cite</a>]
+</span>
+
 - <span style="text-align:justify">
 <strong><u>Jiahao Li</u></strong>, Yong Zhang, Liangwei Chen, Xiaoteng Zheng, and Xingyu Yang.
 <a href="https://www.sciencedirect.com/science/article/pii/S0031320326006254?via=ihub">SAPP: Sparse attention Transformers for pattern recognition in portfolio management.</a>
-<i> Pattern Recognition</i>, 2026, Accept.
+<i> Pattern Recognition</i>, 2026, 179: 113660.
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=SAPP%3A+Sparse+attention+Transformers+for+pattern+recognition+in+portfolio+management&btnG=">cite</a>]
 [<a href="https://github.com/jiahaoli57/SAPP">code</a>]
 </span>
@@ -217,6 +225,7 @@ Yong Zhang, Hong Lin, <strong><u>Jiahao Li</u></strong>, and Xingyu Yang.
       <i> 管理工程学报</i>, 2023, 37(5). (国家自然科学基金委管理科学A类重要期刊, CSSCI, FMS-T1) </span>
 
 
+<p> <strong>&ast;</strong> 共同第一作者</p>
 <p> <strong>&dagger;</strong> 通讯作者</p>
 <span class='anchor' id='-award'></span>
 
