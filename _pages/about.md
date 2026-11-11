@@ -127,7 +127,7 @@ redirect_from:
 
 
 - <span style="text-align:justify">
-Guangyan Gan<sup>&ast;</sup>, <strong><u>Jiahao Li</u><sup>&ast;</sup></strong>, Jiashun Wang, and Lin William Cong.
+Guangyan Gan<sup>&#8270;</sup>, <strong><u>Jiahao Li</u><sup>&#8270;</sup></strong>, Jiashun Wang, and Lin William Cong.
 <a href="https://arxiv.org/abs/2611.12269v1">Agent4Crypto: A Dual-Reflective and Market-Feedback-Aligned LLM-Based Multi-Agent System for Cryptocurrency Trading.</a>
 <i> Pattern Recognition</i>, 2026, Accept.
 [<a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Agent4Crypto%3A+A+Dual-Reflective+and+Market-Feedback-Aligned+LLM-Based+Multi-Agent+System+for+Cryptocurrency+Trading&btnG=">cite</a>]
